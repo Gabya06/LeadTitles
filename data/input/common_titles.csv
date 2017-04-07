@@ -1,0 +1,79 @@
+title,quality,rating
+application development,bad,50
+database administrator,bad,50
+database analyst,bad,50
+developer,bad,50
+enterprise solutions,bad,50
+etl architect,bad,50
+financial systems,bad,50
+information technology,bad,50
+performance,bad,50
+performance analytics,bad,50
+soa architect,bad,50
+software engineer,bad,50
+solutions architect,bad,50
+systems analyst,bad,50
+systems engineer,bad,50
+analytics,best,100
+bcbs239,best,100
+business analyst,best,100
+business intelligence,best,100
+chief data governance officer,best,100
+chief data officer,best,100
+chief operating officer,best,100
+data architect,best,100
+data architecture,best,100
+data governance,best,100
+data governance and data management,best,100
+data governance and data solutions,best,100
+data management,best,100
+data manager,best,100
+data services,best,100
+data standards,best,100
+data steward,best,100
+data warehouse,best,100
+enterprise data governance,best,100
+information analytics,best,100
+information architect,best,100
+information management,best,100
+master data,best,100
+master data governance,best,100
+assessor quality management,good,90
+business solutions,good,90
+business systems,good,90
+business systems analyst,good,90
+chief analytics officer,good,90
+chief executive officer,good,90
+chief financial officer,good,90
+chief technology officer,good,90
+data analyst,good,90
+data analytics,good,90
+data engineer,good,90
+data engineering,good,90
+data science,good,90
+data scientist,good,90
+enterprise architect,good,90
+hadoop,good,90
+information strategist,good,90
+master data manager,good,90
+operations,good,90
+subject expert,good,90
+big data,great,95
+chief compliance officer,great,95
+chief data analytics officer,great,95
+chief data technology officer,great,95
+chief information officer,great,95
+chief investment officer,great,95
+chief knowledge officer,great,95
+chief risk officer,great,95
+data analysis,great,95
+enterprise data analytics,great,95
+enterprise data management,great,95
+enterprise data warehouse,great,95
+enterprise information architecture,great,95
+enterprise information management,great,95
+information governance,great,95
+operations analyst,great,95
+operations analytics,great,95
+regulatory reporting,great,95
+architect,ok,70

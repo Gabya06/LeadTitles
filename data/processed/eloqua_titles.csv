@@ -1,0 +1,347 @@
+A4,data governance,4
+A4,data architect,2
+A4,data quality,1
+A4,data steward,1
+A4,governance,1
+A4,information,1
+A4,information architect,1
+B3,business intelligence,1
+B3,data governance,1
+B3,risk management,1
+B4,risk management,31
+B4,business intelligence,21
+B4,enterprise,13
+B4,data governance,11
+B4,chief data officer,9
+B4,data quality,6
+B4,information architect,5
+B4,business analyst,4
+B4,data,4
+B4,data architect,4
+B4,analytics,2
+B4,chief executive officer,2
+B4,chief information officer,2
+B4,data management,2
+B4,information,2
+B4,compliance,1
+B4,data manager,1
+B4,governance,1
+C3,business intelligence,6
+C3,data governance,4
+C3,data,3
+C3,data architect,3
+C3,information,3
+C3,analytics,2
+C3,business analyst,2
+C3,data management,2
+C3,enterprise,2
+C3,informatics,2
+C3,information governance,2
+C3,chief data officer,1
+C3,chief information officer,1
+C3,chief operating officer,1
+C3,compliance,1
+C3,data architecture,1
+C3,data reporting,1
+C3,data steward,1
+C3,information architect,1
+C3,information management,1
+C3,metadata,1
+C3,performance,1
+C4,information,375
+C4,business intelligence,354
+C4,chief information officer,337
+C4,data,260
+C4,data architect,172
+C4,analytics,129
+C4,data management,127
+C4,data governance,117
+C4,compliance,104
+C4,business analyst,101
+C4,enterprise,92
+C4,data quality,68
+C4,data warehouse,54
+C4,risk management,51
+C4,operations,45
+C4,data manager,36
+C4,information governance,35
+C4,information management,32
+C4,chief data officer,28
+C4,information architect,28
+C4,enterprise data,23
+C4,data services,22
+C4,informatics,20
+C4,medical informatics,19
+C4,data steward,18
+C4,reporting,18
+C4,chief operating officer,17
+C4,governance,17
+C4,database,16
+C4,operations data,15
+C4,information operations,12
+C4,master data,10
+C4,chief risk officer,9
+C4,chief executive officer,8
+C4,business development,7
+C4,information compliance,7
+C4,information data,7
+C4,information enterprise,7
+C4,sales,7
+C4,programmer,6
+C4,metadata,5
+C4,performance,5
+C4,quality improvement,5
+C4,vendor management,5
+C4,medical officer,4
+C4,professor,4
+C4,big data,3
+C4,data operations,3
+C4,information governance compliance,3
+C4,information information,3
+C4,data data,2
+C4,data reporting,2
+C4,database data,2
+C4,enterprise operations data,2
+C4,governance information,2
+C4,information compliance governance,2
+C4,information performance,2
+C4,performance reporting,2
+C4,reporting data,2
+C4,big data architect,1
+C4,big data data,1
+C4,clinical quality,1
+C4,compliance compliance,1
+C4,compliance data,1
+C4,compliance information governance,1
+C4,data architecture,1
+C4,data compliance,1
+C4,data data compliance,1
+C4,data enterprise,1
+C4,data etl,1
+C4,data protection governance,1
+C4,data warehousing,1
+C4,database database,1
+C4,enterprise big data,1
+C4,enterprise data governance,1
+C4,enterprise information,1
+C4,enterprise reporting,1
+C4,etl,1
+C4,governance big data,1
+C4,governance enterprise,1
+C4,hadoop,1
+C4,hims,1
+C4,informatics performance,1
+C4,information enterprise data,1
+C4,information enterprise data protection,1
+C4,information governance data protection,1
+C4,information governance information,1
+C4,information informatics,1
+C4,information operations data,1
+C4,information operations database,1
+C4,operations information,1
+C4,operations sales,1
+C4,performance governance,1
+C4,performance performance,1
+C4,reporting compliance,1
+C4,reporting information,1
+C4,soa,1
+D3,business intelligence,11
+D3,data,11
+D3,data architect,6
+D3,enterprise,6
+D3,business analyst,5
+D3,chief data officer,5
+D3,information,5
+D3,data governance,4
+D3,analytics,3
+D3,data management,3
+D3,sales,3
+D3,business development,2
+D3,data manager,2
+D3,data steward,2
+D3,data warehouse,2
+D3,big data architect,1
+D3,chief information officer,1
+D3,compliance,1
+D3,data information,1
+D3,data quality,1
+D3,database,1
+D3,enterprise governance data,1
+D3,informatics,1
+D3,information data,1
+D3,information management,1
+D3,information professor,1
+D3,medical officer,1
+D3,metadata,1
+D3,operations,1
+D3,professor,1
+D3,professor operations information,1
+D3,programmer,1
+D4,data,1736
+D4,information,1200
+D4,business intelligence,1008
+D4,analytics,724
+D4,data management,651
+D4,data architect,636
+D4,data governance,605
+D4,business analyst,430
+D4,enterprise,414
+D4,database,327
+D4,data manager,282
+D4,compliance,281
+D4,data warehouse,261
+D4,operations,259
+D4,chief information officer,250
+D4,chief executive officer,238
+D4,sales,223
+D4,data quality,191
+D4,information architect,152
+D4,information management,150
+D4,chief data officer,147
+D4,data steward,135
+D4,governance,134
+D4,business development,128
+D4,risk management,114
+D4,master data,89
+D4,big data,88
+D4,data services,82
+D4,vendor management,80
+D4,operations data,69
+D4,reporting,62
+D4,chief operating officer,56
+D4,information governance,50
+D4,enterprise data,47
+D4,performance,41
+D4,informatics,40
+D4,information operations,38
+D4,programmer,37
+D4,information enterprise,31
+D4,professor,29
+D4,data warehousing,26
+D4,information compliance,26
+D4,information data,26
+D4,metadata,19
+D4,governance compliance,18
+D4,hadoop,15
+D4,medical informatics,15
+D4,programmer database,14
+D4,chief risk officer,12
+D4,compliance governance,12
+D4,data operations,12
+D4,data information,10
+D4,data standards,10
+D4,big data architect,9
+D4,medical officer,9
+D4,data protection,8
+D4,database data,8
+D4,enterprise governance,8
+D4,data reporting,7
+D4,governance data,7
+D4,compliance data,6
+D4,enterprise information,6
+D4,enterprise operations,6
+D4,database operations,5
+D4,enterprise database,5
+D4,etl,5
+D4,sales data,5
+D4,data architecture,4
+D4,information governance compliance,4
+D4,operations database,4
+D4,compliance reporting,3
+D4,data compliance,3
+D4,data database,3
+D4,enterprise sales,3
+D4,information database,3
+D4,information enterprise data,3
+D4,information enterprise governance,3
+D4,information information,3
+D4,operations sales,3
+D4,performance data,3
+D4,quality improvement,3
+D4,sales business development,3
+D4,business development enterprise,2
+D4,clinical applications,2
+D4,clinical quality,2
+D4,compliance information,2
+D4,compliance operations,2
+D4,data information operations,2
+D4,data operations enterprise,2
+D4,database etl,2
+D4,enterprise big data,2
+D4,enterprise data management,2
+D4,enterprise information data,2
+D4,enterprise operations data,2
+D4,governance compliance information,2
+D4,governance enterprise,2
+D4,governance information,2
+D4,governance operations,2
+D4,information big data,2
+D4,information compliance governance,2
+D4,information enterprise operations,2
+D4,information governance data,2
+D4,information performance,2
+D4,information programmer,2
+D4,information reporting,2
+D4,master data governance,2
+D4,nursing officer,2
+D4,operations information,2
+D4,programmer data,2
+D4,reporting data,2
+D4,soa,2
+D4,solvency ii,2
+D4,stewardship data,2
+D4,big data data,1
+D4,big data database,1
+D4,big data hadoop,1
+D4,big data hadoop sales,1
+D4,big data sales,1
+D4,business development operations,1
+D4,compliance database,1
+D4,compliance enterprise,1
+D4,data data,1
+D4,data enterprise,1
+D4,data etl,1
+D4,data governance compliance,1
+D4,data performance,1
+D4,data programmer,1
+D4,data protection enterprise,1
+D4,data protection information governance,1
+D4,database database,1
+D4,database programmer,1
+D4,database reporting,1
+D4,enterprise compliance,1
+D4,enterprise data data,1
+D4,enterprise governance data,1
+D4,enterprise information enterprise,1
+D4,enterprise reporting,1
+D4,enterprise soa data,1
+D4,etl data,1
+D4,governance data enterprise,1
+D4,governance ibm data,1
+D4,governance information compliance,1
+D4,hadoop data,1
+D4,informatics big data,1
+D4,informatics hims,1
+D4,informatics programmer,1
+D4,information enterprise reporting,1
+D4,information governance operations,1
+D4,information information compliance,1
+D4,information information governance,1
+D4,information information programmer,1
+D4,information performance reporting,1
+D4,information sales,1
+D4,metadata data,1
+D4,operations compliance,1
+D4,operations enterprise,1
+D4,operations governance,1
+D4,performance enterprise,1
+D4,performance operations,1
+D4,performance reporting,1
+D4,performance reporting operations,1
+D4,performance sales,1
+D4,professor data,1
+D4,radar,1
+D4,reporting data etl,1
+D4,reporting database,1
+D4,reporting governance,1
+D4,vendor governance,1

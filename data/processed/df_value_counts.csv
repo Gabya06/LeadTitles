@@ -1,0 +1,530 @@
+-30,business development sales,1
+-20,business development sales,1
+-19,business development sales,2
+-17,sales business development,3
+-15,sales ibm,1
+0,data quality,230
+0,risk management,216
+0,vendor management,65
+0,medical informatics,36
+0,medical officer,15
+0,quality improvement,5
+0,clinical applications,3
+0,clinical quality,2
+0,nursing officer,2
+0,programmer database,2
+0,database programmer,1
+0,performance sales,1
+0,vendor governance,1
+3,programmer database,21
+10,sales,64
+10,business development,32
+10,database etl,2
+10,database database,1
+11,sales,7
+13,sales,18
+13,business development,6
+13,database database,1
+15,sales data,2
+15,business development enterprise,1
+15,enterprise sales,1
+18,business development,56
+18,sales,48
+18,sales data,1
+20,sales,65
+20,business development,39
+20,programmer,28
+20,professor,25
+21,sales,15
+21,business development,5
+23,sales,56
+23,business development,29
+23,professor,14
+23,programmer,14
+23,operations sales,1
+23,sales data,1
+25,sales,25
+25,business development,4
+25,programmer data,2
+25,sales data,2
+25,business development enterprise,1
+25,enterprise sales,1
+25,operations sales,1
+26,operations sales,2
+27,information sales,1
+28,programmer,7
+28,big data sales,1
+28,business development operations,1
+28,enterprise sales,1
+28,operations sales,1
+30,database,115
+30,etl,9
+30,information professor,1
+30,information programmer,1
+30,professor,1
+30,sales data,1
+31,database,2
+31,etl,1
+33,database,64
+33,programmer,2
+33,data programmer,1
+33,etl,1
+33,informatics programmer,1
+33,performance performance,1
+35,database data,4
+35,data database,2
+35,enterprise database,2
+35,data etl,1
+35,etl data,1
+35,information programmer,1
+35,professor data,1
+35,professor operations information,1
+35,soa,1
+36,soa,1
+37,information database,1
+37,information information programmer,1
+38,database,155
+38,database data,4
+38,etl,2
+38,soa,2
+38,big data hadoop sales,1
+38,data database,1
+40,database,27
+40,performance,7
+40,enterprise soa,1
+40,information database,1
+41,database,8
+41,performance,2
+43,database,17
+43,performance,6
+43,database operations,3
+43,operations database,3
+43,enterprise database,2
+43,database data,1
+43,etl,1
+43,reporting database,1
+43,soa,1
+45,database,3
+45,performance data,2
+45,database data,1
+45,database operations,1
+45,governance soa,1
+45,information database,1
+45,operations database,1
+45,performance enterprise,1
+46,database operations,1
+48,performance,16
+48,big data database,1
+48,compliance database,1
+48,data etl,1
+48,database reporting,1
+48,enterprise database,1
+48,enterprise soa data,1
+50,analytics,15
+50,performance,10
+50,data architect,8
+50,data services,2
+50,data warehouse,2
+50,master data,2
+50,business analyst,1
+50,database reporting,1
+50,information architect,1
+50,information performance,1
+51,performance,7
+52,information operations database,1
+53,performance,4
+53,data performance,1
+53,performance data,1
+53,performance operations,1
+53,performance reporting,1
+53,reporting data etl,1
+55,data,861
+55,enterprise,346
+55,operations,37
+55,governance ibm data,1
+55,information performance,1
+55,performance,1
+56,data,49
+56,enterprise,7
+56,operations,2
+57,information,172
+57,information performance,2
+58,data,425
+58,enterprise,60
+58,operations,29
+58,information,9
+58,information performance,1
+58,performance reporting,1
+60,business analyst,642
+60,information,257
+60,master data,66
+60,compliance,62
+60,data governance,50
+60,big data,40
+60,enterprise data,34
+60,governance,32
+60,data management,31
+60,reporting,25
+60,data services,17
+60,information management,15
+60,hadoop,13
+60,informatics,7
+60,operations data,7
+60,data standards,5
+60,data enterprise,2
+60,information performance,1
+60,performance reporting,1
+61,big data,4
+61,governance,4
+61,compliance,2
+61,performance reporting,2
+61,enterprise data,1
+61,hadoop,1
+61,informatics,1
+61,performance compliance,1
+62,information enterprise,19
+62,information data,9
+62,information operations,3
+62,data information,2
+62,enterprise information,1
+63,data,571
+63,enterprise,83
+63,operations,81
+63,compliance,30
+63,big data,15
+63,governance,15
+63,enterprise data,11
+63,informatics,11
+63,reporting,9
+63,operations data,7
+63,data operations,3
+63,hadoop,2
+63,data enterprise,1
+63,information data,1
+63,performance governance,1
+63,performance reporting operations,1
+65,data architect,970
+65,information,548
+65,data,222
+65,operations,101
+65,enterprise,86
+65,business analyst,54
+65,data services,44
+65,metadata,13
+65,data architecture,6
+65,data standards,6
+65,data governance,5
+65,compliance data,4
+65,enterprise big data,4
+65,governance data,4
+65,information data,3
+65,information enterprise,3
+65,big data data,2
+65,data protection,2
+65,information operations,2
+65,master data governance,2
+65,reporting data,2
+65,data compliance,1
+65,data enterprise data,1
+65,enterprise governance,1
+65,enterprise operations data,1
+65,enterprise reporting,1
+65,governance operations,1
+65,hadoop data,1
+65,informatics performance,1
+65,information performance reporting,1
+65,solvency ii,1
+66,data,233
+66,operations,40
+66,enterprise,11
+66,metadata,4
+67,information,299
+67,information governance,23
+67,information compliance,7
+67,information enterprise data,3
+67,compliance information,1
+67,governance information,1
+67,information big data,1
+67,information governance performance,1
+68,data,142
+68,operations,62
+68,governance,54
+68,compliance,52
+68,operations data,42
+68,enterprise,39
+68,reporting,33
+68,information,31
+68,enterprise data,29
+68,big data,27
+68,informatics,13
+68,metadata,7
+68,data operations,6
+68,enterprise operations,4
+68,data governance,3
+68,information governance,3
+68,reporting data,3
+68,data reporting,2
+68,hadoop,2
+68,data compliance,1
+68,data data,1
+68,data protection,1
+68,governance data,1
+68,governance enterprise,1
+68,informatics data,1
+68,operations enterprise,1
+70,information architect,248
+70,information,238
+70,data quality,170
+70,data warehouse,144
+70,analytics,124
+70,compliance,112
+70,data,90
+70,data manager,89
+70,data architect,87
+70,master data,52
+70,data services,41
+70,informatics,35
+70,governance,27
+70,risk management,26
+70,vendor management,25
+70,enterprise,23
+70,operations data,22
+70,information operations,17
+70,big data architect,16
+70,information enterprise,16
+70,operations,16
+70,reporting,15
+70,business analyst,14
+70,information data,13
+70,enterprise data,12
+70,information governance,9
+70,data warehousing,8
+70,big data,7
+70,quality improvement,5
+70,compliance governance,4
+70,data operations,4
+70,data standards,4
+70,data information,3
+70,enterprise operations,3
+70,medical informatics,3
+70,big data hadoop,2
+70,information compliance,2
+70,information enterprise data,2
+70,clinical quality,1
+70,data enterprise,1
+70,enterprise data protection,1
+70,enterprise risk management,1
+70,governance big data,1
+70,governance compliance,1
+70,information enterprise operations,1
+70,information operations data,1
+70,metadata data,1
+70,operations information,1
+71,governance,18
+71,compliance,13
+71,reporting,12
+71,operations data,6
+71,big data,5
+71,enterprise data,5
+71,data operations,4
+71,data data,2
+71,informatics,1
+72,information,165
+72,information operations,19
+72,information enterprise,15
+72,information data,5
+72,data information,3
+72,enterprise information,3
+72,information enterprise governance,2
+72,information information,2
+73,compliance,121
+73,governance,25
+73,reporting,18
+73,enterprise data,14
+73,metadata,10
+73,operations data,8
+73,governance data,7
+73,data reporting,6
+73,big data,4
+73,compliance data,4
+73,data governance,4
+73,data protection,4
+73,enterprise governance,4
+73,enterprise reporting,4
+73,informatics,4
+73,data compliance,3
+73,data information,3
+73,solvency ii,3
+73,information data,2
+73,big data data,1
+73,compliance reporting,1
+73,data compliance data,1
+73,data data,1
+73,data operations,1
+73,enterprise compliance,1
+73,enterprise metadata,1
+73,enterprise operations data,1
+73,governance operations,1
+73,information enterprise,1
+73,operations big data data,1
+73,operations governance,1
+73,reporting data,1
+74,information information,1
+75,business intelligence,677
+75,chief executive officer,307
+75,data warehouse,217
+75,data architect,92
+75,compliance,78
+75,information governance,44
+75,information architect,17
+75,information operations,11
+75,information compliance,10
+75,data governance,8
+75,data warehousing,8
+75,informatics,7
+75,governance,6
+75,information enterprise,6
+75,big data,4
+75,governance data,3
+75,hims,3
+75,data operations enterprise,2
+75,enterprise governance,2
+75,governance information,2
+75,operations information,2
+75,reporting,2
+75,reporting data,2
+75,compliance data,1
+75,compliance enterprise,1
+75,compliance enterprise compliance,1
+75,data information operations,1
+75,data protection,1
+75,enterprise big data hadoop,1
+75,enterprise compliance,1
+75,enterprise data,1
+75,enterprise information,1
+75,information data,1
+75,information enterprise data,1
+75,information enterprise governance,1
+75,information reporting,1
+75,operations compliance,1
+75,radar,1
+75,solvency ii,1
+76,data governance,5
+76,data reporting,4
+76,governance data,2
+76,data compliance,1
+76,data protection,1
+76,enterprise operations data,1
+76,governance enterprise,1
+76,governance operations,1
+76,metadata,1
+77,information governance,17
+77,information compliance,9
+77,information data,3
+77,enterprise information,2
+77,data information,1
+77,enterprise information data,1
+77,governance information,1
+77,information enterprise operations,1
+77,information information,1
+77,information reporting,1
+78,information governance,11
+78,governance compliance,7
+78,data governance,6
+78,compliance governance,4
+78,compliance reporting,4
+78,governance data,3
+78,compliance operations,2
+78,data protection,2
+78,enterprise governance data,2
+78,enterprise operations data,2
+78,compliance data,1
+78,data data compliance,1
+78,data information operations,1
+78,data protection enterprise,1
+78,data reporting,1
+78,enterprise compliance,1
+78,enterprise data data,1
+78,enterprise governance,1
+78,governance compliance information,1
+78,governance enterprise,1
+78,information compliance,1
+78,information reporting,1
+78,operations compliance,1
+78,reporting information,1
+79,information information,2
+80,data management,540
+80,business intelligence,525
+80,data manager,411
+80,analytics,349
+80,information management,125
+80,data services,44
+80,information architect,33
+80,master data,24
+80,governance compliance,7
+80,information governance,7
+80,information compliance,6
+80,information enterprise governance,3
+80,compliance governance,2
+80,data protection,2
+80,compliance information,1
+80,compliance reporting,1
+80,data standards,1
+80,enterprise information data,1
+80,enterprise information enterprise,1
+80,information big data,1
+80,information compliance governance,1
+80,information governance data,1
+80,reporting compliance,1
+80,reporting data,1
+81,compliance governance,1
+81,governance data enterprise,1
+81,reporting governance,1
+82,information enterprise governance,3
+82,information governance data,2
+82,information enterprise reporting,1
+82,information governance,1
+82,information governance operations,1
+82,information informatics,1
+82,information information compliance,1
+83,enterprise data management,5
+83,compliance governance,3
+83,governance compliance,3
+83,compliance reporting,1
+83,data governance compliance,1
+83,data protection governance,1
+83,enterprise data governance,1
+83,enterprise metadata,1
+83,informatics big data,1
+83,reporting governance,1
+85,chief information officer,648
+85,data management,512
+85,business intelligence,474
+85,analytics,371
+85,data steward,294
+85,data warehouse,60
+85,chief operating officer,50
+85,data warehousing,19
+85,information governance compliance,5
+85,compliance governance,2
+85,information compliance governance,2
+85,compliance compliance,1
+85,information enterprise data protection,1
+85,information governance information,1
+87,information governance compliance,2
+87,governance compliance information,1
+87,information compliance governance,1
+88,governance information compliance,1
+89,information information governance,1
+90,analytics,198
+90,information management,131
+90,chief operating officer,40
+90,stewardship data,2
+90,compliance information governance,1
+90,informatics hims,1
+90,information governance data protection,1
+91,stewardship data,2
+92,data protection information governance,1
+95,data governance,1209
+95,chief risk officer,22
+100,chief data officer,284

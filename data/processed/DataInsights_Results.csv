@@ -1,0 +1,92 @@
+,title,title_split,temp,temp_level,temp_title,temp_score
+0,head of data analysis and interaction,head of data analysis and interaction,"(u'department head', u'data', 66)",department head,data,66
+1,cardiovascular and metabolic disease analyst,cardiovascular and metabolic disease analyst,"(nan, nan, 50)",,,50
+2,product owner/manager,product owner manager,"(u'manager', nan, 58)",manager,,58
+3,global head of research and innovation,global head of research and innovation,"(u'department head', nan, 61)",department head,,61
+4,head of advanced analytics,head of advanced analytics,"(u'department head', u'analytics', 90)",department head,analytics,90
+5,"global data lead, programme tao",global data lead programme tao,"(u'manager', u'data', 63)",manager,data,63
+6,head of data & analytics,head of data analytics,"(u'department head', u'analytics', 90)",department head,analytics,90
+7,chief research scientist,chief research scientist,"(u'c-level', nan, 65)",c-level,,65
+8,lead data scientist,lead data scientist,"(u'manager', u'data scientist', 75)",manager,data scientist,75
+9,chief data scientist,chief data scientist,"(u'c-level', u'data scientist', 85)",c-level,data scientist,85
+10,"director, data science",director data science,"(u'director', u'data science', 80)",director,data science,80
+11,data analyst sales,data analyst sales,"(nan, u'sales data', 15)",,sales data,15
+12,head of data and analytics,head of data and analytics,"(u'department head', u'analytics', 90)",department head,analytics,90
+13,sales and marketing director,sales and marketing director,"(u'director', u'sales', 20)",director,sales,20
+14,"head of analytics, data-science, acting head of dw",head of analytics data science acting head of data warehouse,"(u'department head', u'analytics', 90)",department head,analytics,90
+15,analytics lead,analytics lead,"(u'manager', u'analytics', 80)",manager,analytics,80
+16,it manager,it manager,"(u'manager', nan, 58)",manager,,58
+17,"senior manager, analytics",senior manager analytics,"(u'manager', u'analytics', 80)",manager,analytics,80
+18,"svp, head of big data analytics",senior vice president head of big data analytics,"(u'vp', u'analytics', 90)",vp,analytics,90
+19,smart data analytics and communication vice president,smart data analytics and communication vice president,"(u'vp', u'analytics', 90)",vp,analytics,90
+20,head of customer marketing,head of customer marketing,"(u'department head', nan, 61)",department head,,61
+21,head of ericsson group analytics,head of ericsson group analytics,"(u'department head', u'analytics', 90)",department head,analytics,90
+22,chief data officer,chief data officer,"('individual contributer', 'chief data officer', 100)",individual contributer,chief data officer,100
+23,global business intelligence,global business intelligence,"(u'individual contributer', u'business intelligence', 70)",individual contributer,business intelligence,70
+24,sales and product development director,sales and product development director,"(u'director', u'sales', 20)",director,sales,20
+25,ceo,chief executive officer,"(u'c-level', nan, 65)",c-level,,65
+26,"head of analytics, consultancy and solutions",head of analytics consultancy and solutions,"(u'department head', u'analytics', 90)",department head,analytics,90
+27,marketing executive,marketing executive,"(u'c-level', nan, 65)",c-level,,65
+28,client services,client services,"(nan, nan, 50)",,,50
+29,founder,founder,"(nan, nan, 50)",,,50
+30,head of data analytics financial markets,head of data analytics financial markets,"(u'department head', u'analytics', 90)",department head,analytics,90
+31,head of analytics,head of analytics,"(u'department head', u'analytics', 90)",department head,analytics,90
+32,president,president,"(u'vp', nan, 63)",vp,,63
+33,"global practice leader, customer insights (business analytics)",global practice leader customer insights business analytics,"(u'individual contributer', u'analytics', 70)",individual contributer,analytics,70
+34,senior vice president business development,senior vice president business development,"(u'vp', u'business development', 23)",vp,business development,23
+35,vice-president and head bfsi (europe),vice president and head bfsi europe,"(u'vp', nan, 63)",vp,,63
+36,data scientist,data scientist,"('individual contributer', 'data scientist', 65)",individual contributer,data scientist,65
+37,founder,founder,"(nan, nan, 50)",,,50
+38,business analytics manager,business analytics manager,"(u'manager', u'analytics', 80)",manager,analytics,80
+39,chief data officer,chief data officer,"('individual contributer', 'chief data officer', 100)",individual contributer,chief data officer,100
+40,unit manager digital transformation,unit manager digital transformation,"(u'manager', nan, 58)",manager,,58
+41,it manager,it manager,"(u'manager', nan, 58)",manager,,58
+42,director of communications,director of communications,"(u'director', nan, 60)",director,,60
+43,director of engineering,director of engineering,"(u'director', nan, 60)",director,,60
+44,chief executive,chief executive,"(u'c-level', nan, 65)",c-level,,65
+45,area manager,area manager,"(u'manager', nan, 58)",manager,,58
+46,head of customer insight,head of customer insight,"(u'department head', nan, 61)",department head,,61
+47,vp data science and analytics,vp data science and analytics,"(u'vp', u'analytics', 90)",vp,analytics,90
+48,expert analyst,expert analyst,"(nan, nan, 50)",,,50
+49,product manager,product manager,"(u'manager', nan, 58)",manager,,58
+50,manager,manager,"(u'manager', nan, 58)",manager,,58
+51,expert it developer,expert it developer,"(nan, nan, 50)",,,50
+52,graduate,graduate,"(nan, nan, 50)",,,50
+53,manager,manager,"(u'manager', nan, 58)",manager,,58
+54,graduate,graduate,"(nan, nan, 50)",,,50
+55,expert data analyst,expert data analyst,"(nan, u'data', 55)",,data,55
+56,chief technology specialist big data & data science,chief technology specialist big data data science,"(u'c-level', u'data science', 85)",c-level,data science,85
+57,senior vice president business intelligence & customer base management,senior vice president business intelligence customer base management,"(u'vp', u'business intelligence', 85)",vp,business intelligence,85
+58,data scientist,data scientist,"('individual contributer', 'data scientist', 65)",individual contributer,data scientist,65
+59,ceo and founder,chief executive officer and founder,"(u'c-level', nan, 65)",c-level,,65
+60,head of data & analytics – europe & sub sahara africa,head of data analytics europe sub sahara africa,"(u'department head', u'analytics', 90)",department head,analytics,90
+61,manager commerical intelligence,manager commerical intelligence,"(u'manager', nan, 58)",manager,,58
+62,global head of brand analytics,global head of brand analytics,"(u'department head', u'analytics', 90)",department head,analytics,90
+63,market and business intelligence director,market and business intelligence director,"(u'director', u'business intelligence', 85)",director,business intelligence,85
+64,sr. global manager,senior global manager,"(u'manager', nan, 58)",manager,,58
+65,head of business intelligence,head of business intelligence,"(u'department head', u'business intelligence', 85)",department head,business intelligence,85
+66,group head of business analytics,group head of business analytics,"(u'department head', u'analytics', 90)",department head,analytics,90
+67,head of property data analytics,head of property data analytics,"(u'department head', u'analytics', 90)",department head,analytics,90
+68,programmatic sales manager,programmatic sales manager,"(u'manager', u'sales', 18)",manager,sales,18
+69,lead data scientist,lead data scientist,"(u'manager', u'data scientist', 75)",manager,data scientist,75
+70,head of data and insights,head of data and insights,"(u'department head', u'data', 66)",department head,data,66
+71,co-founder,co founder,"(nan, nan, 50)",,,50
+72,area manager,area manager,"(u'manager', nan, 58)",manager,,58
+73,head of area,head of area,"(u'department head', nan, 61)",department head,,61
+74,area manager,area manager,"(u'manager', nan, 58)",manager,,58
+75,ecommerce business specialist,ecommerce business specialist,"(u'individual contributer', nan, 53)",individual contributer,,53
+76,area leader,area leader,"(u'individual contributer', nan, 53)",individual contributer,,53
+77,consultant,consultant,"(u'consultant', nan, 51)",consultant,,51
+78,global data programme director,global data programme director,"(u'director', u'data', 65)",director,data,65
+79,head of research analytics,head of research analytics,"(u'department head', u'analytics', 90)",department head,analytics,90
+80,head of business intelligence,head of business intelligence,"(u'department head', u'business intelligence', 85)",department head,business intelligence,85
+81,lead scientist,lead scientist,"(u'manager', nan, 58)",manager,,58
+82,digital strategy and analytics,digital strategy and analytics,"('individual contributer', u'analytics', 70)",individual contributer,analytics,70
+83,"global director, customer insights",global director customer insights,"(u'director', nan, 60)",director,,60
+84,global business intelligence delivery manager,global business intelligence delivery manager,"(u'manager', u'business intelligence', 80)",manager,business intelligence,80
+85,head of data science and digital analytics,head of data science and digital analytics,"(u'department head', u'analytics', 90)",department head,analytics,90
+86,"sem specialist, technology & insights",sem specialist technology insights,"(u'individual contributer', nan, 53)",individual contributer,,53
+87,associate product owner,associate product owner,"(u'individual contributer', nan, 53)",individual contributer,,53
+88,data scientist-security director,data scientist security director,"(u'director', u'data scientist', 80)",director,data scientist,80
+89,chied data officer,chied data officer,"('individual contributer', u'data officer', 80)",individual contributer,data officer,80
+90,technical scout and analyst,technical scout and analyst,"(nan, nan, 50)",,,50

@@ -1,0 +1,728 @@
+,title,title_count,title_split,new_title,type,match_score,title_level,leftover,token_set,token_set_score,type_1,token_set_title,token_sort,token_sort_score,type_2,token_sort_title,extractOne,extractOne_score,type_3,extractOne_title
+0,data architect,14,data architect,data architect,great,100.0,,,,,,,,,,,,,,
+1,managing director,11,managing director,,,,managing director,,,,,,,,,,,,,
+2,chief data officer,11,chief data officer,chief data officer,great,100.0,,,,,,,,,,,,,,
+3,senior manager,9,senior manager,,,,senior manager,,,,,,,,,,,,,
+4,executive director,9,executive director,,,,executive director,,,,,,,,,,,,,
+5,enterprise data architect,9,enterprise data architect,,,,,,,,,,,,,,,,,
+6,enterprise architect,8,enterprise architect,,,,,,,,,,,,,,,,,
+7,cio,7,chief information officer,chief information officer,common,100.0,,,,,,,,,,,,,,
+8,cdo,7,chief data officer,chief data officer,great,100.0,,,,,,,,,,,,,,
+9,director,6,director,,,,director,,,,,,,,,,,,,
+10,data governance lead,6,data governance lead,data governance,,,lead,,,,,,,,,,,,,
+11,senior director data standards,5,senior director data standards,data standards,,,senior director,,,,,,,,,,,,,
+12,project manager,5,project manager,,,,project manager,,,,,,,,,,,,,
+13,program manager,5,program manager,,,,program manager,,,,,,,,,,,,,
+14,information architect,5,information architect,information architect,great,100.0,,,,,,,,,,,,,,
+15,former division manager,5,former division manager,,,,manager,former division,"(chief information officer, 45, common)",45.0,,,"(chief information officer, 45, common)",45.0,,,"(information architect, 39, great)",39.0,,
+16,enterprise data governance,5,enterprise data governance,enterprise data governance,common,100.0,,,,,,,,,,,,,,
+17,data governance manager,5,data governance manager,data governance,,,manager,,,,,,,,,,,,,
+18,consultant,5,consultant,,,,consultant,,,,,,,,,,,,,
+19,chief data governance officer,5,chief data governance officer,,,,,,,,,,,,,,,,,
+20,"senior manager of data quality and data governance, enterprise data management",4,senior manager of data quality and data governance enterprise data management,data management,,,senior manager,data quality data governance enterprise data management,"(data management, 100, great)",100.0,great,data management,"(enterprise data governance, 64, common)",64.0,,,"(data management, 90, great)",90.0,great,data management
+21,senior consultant,4,senior consultant,,,,senior consultant,,,,,,,,,,,,,
+22,"program manager, enterprise data governance",4,program manager enterprise data governance,enterprise data governance,,,program manager,,,,,,,,,,,,,
+24,manager,4,manager,,,,manager,,,,,,,,,,,,,
+25,enterprise data governance consultant,4,enterprise data governance consultant,enterprise data governance,,,consultant,,,,,,,,,,,,,
+26,data analyst,4,data analyst,data analyst,common,100.0,,,,,,,,,,,,,,
+27,cto,4,chief technology officer,chief technology officer,common,100.0,,,,,,,,,,,,,,
+28,business analyst,4,business analyst,business analyst,great,100.0,,,,,,,,,,,,,,
+29,architect,4,architect,architect,common,100.0,,,,,,,,,,,,,,
+30,vp procurement management,3,vice president procurement management,,,,vice president,procurement management,"(data management, 80, great)",80.0,,,"(data management, 54, great)",54.0,,,"(data management, 76, great)",76.0,,
+31,subject area owner,3,subject area owner,,,,,,,,,,,,,,,,,
+32,strategic sourcing,3,strategic sourcing,,,,,,,,,,,,,,,,,
+33,senior it officer,3,senior it officer,,,,senior,it officer,"(chief data officer, 82, great)",82.0,,,"(chief data officer, 71, great)",71.0,,,"(chief data officer, 86, great)",86.0,,
+34,project director,3,project director,,,,project director,,,,,,,,,,,,,
+35,program analyst,3,program analyst,ignore,,,program,analyst,"(business analyst, 100, great)",100.0,great,business analyst,"(analytics, 75, great)",75.0,,,"(business analyst, 90, great)",90.0,great,business analyst
+36,principal data analyst,3,principal data analyst,data analyst,,,principal,,,,,,,,,,,,,
+37,president,3,president,,,,president,,,,,,,,,,,,,
+39,"managing director, bny mellon  data management and architecture   client technology solutions",3,managing director bny mellon data management and architecture client technology solutions,data management,,,managing director,bny mellon data management architecture client technology solutions,"(data management, 100, great)",100.0,great,data management,"(solutions architect, 44, common)",44.0,,,"(data management, 90, great)",90.0,great,data management
+40,it manager,3,it manager,ignore,,,manager,it,"(architect, 36, common)",36.0,,,"(architect, 36, common)",36.0,,,"(data architect, 90, great)",90.0,great,data architect
+41,"executive director, lead architect",3,executive director lead architect,architect,,,executive director lead,,,,,,,,,,,,,
+42,director technical architecture,3,director technical architecture,,,,director,technical architecture,"(data architecture, 83, great)",83.0,,,"(data architecture, 77, great)",77.0,,,"(data architecture, 79, great)",79.0,,
+43,data governance,3,data governance,data governance,great,100.0,,,,,,,,,,,,,,
+44,"chief information officer, ifc",3,chief information officer ifc,,,,,,,,,,,,,,,,,
+45,chief data architect,3,chief data architect,,,,,,,,,,,,,,,,,
+46,associate general counsel,3,associate general counsel,,,,associate,general counsel,"(business intelligence, 50, great)",50.0,,,"(business intelligence, 50, great)",50.0,,,"(business intelligence, 48, great)",48.0,,
+47,"vp, enterprise data management",2,vice president enterprise data management,data management,,,vice president,enterprise data management,"(data management, 100, great)",100.0,great,data management,"(data management, 73, great)",73.0,,,"(data management, 90, great)",90.0,great,data management
+48,vp global finance technology,2,vice president global finance technology,,,,vice president global,finance technology,"(information technology, 75, common)",75.0,,,"(information technology, 75, common)",75.0,,,"(information architect, 41, great)",41.0,,
+49,vp data architecture,2,vice president data architecture,data architecture,,,vice president,,,,,,,,,,,,,
+50,vp data,2,vice president data,ignore,,,vice president,data,"(master data governance, 100, great)",100.0,great,master data governance,"(master data, 53, great)",53.0,,,"(master data governance, 90, great)",90.0,great,master data governance
+51,"vice president, wealth management",2,vice president wealth management,,,,vice president,wealth management,"(data management, 81, great)",81.0,,,"(assessor quality management, 64, common)",64.0,,,"(data management, 81, great)",81.0,,
+52,vice president - architecture,2,vice president architecture,ignore,,,vice president,architecture,"(data architecture, 100, great)",100.0,great,data architecture,"(architect, 86, common)",86.0,,,"(data architecture, 95, great)",95.0,great,data architecture
+53,vice president,2,vice president,,,,vice president,,,,,,,,,,,,,
+54,technical data steward,2,technical data steward,,,,,,,,,,,,,,,,,
+55,system analyst,2,system analyst,,,,,,,,,,,,,,,,,
+56,"svp, enterprise data executive & chief model risk officer",2,senior vice president enterprise data executive chief model risk officer,,,,senior vice president executive,enterprise data chief model risk officer,"(chief data officer, 100, great)",100.0,great,chief data officer,"(chief data officer, 62, great)",62.0,,,"(master data governance, 86, great)",86.0,,
+57,svp data governance,2,senior vice president data governance,data governance,,,senior vice president,,,,,,,,,,,,,
+58,sr. project manager,2,senior project manager,,,,senior project manager,,,,,,,,,,,,,
+59,sr. operations officer,2,senior operations officer,,,,senior,operations officer,"(chief operating officer, 78, great)",78.0,,,"(chief operating officer, 78, great)",78.0,,,"(chief operating officer, 78, great)",78.0,,
+60,sr data architect,2,senior data architect,data architect,,,senior,,,,,,,,,,,,,
+61,solution architect,2,solution architect,,,,,,,,,,,,,,,,,
+62,soa architect,2,soa architect,soa architect,common,100.0,,,,,,,,,,,,,,
+63,senior researcher,2,senior researcher,ignore,,,senior,researcher,"(architect, 53, common)",53.0,,,"(architect, 53, common)",53.0,,,"(information architect, 45, great)",45.0,,
+64,senior project lead - data governance workstreams,2,senior project lead data governance workstreams,data governance,,,senior project lead,data governance workstreams,"(data governance, 100, great)",100.0,great,data governance,"(master data governance, 78, great)",78.0,,,"(data governance, 90, great)",90.0,great,data governance
+65,"senior manager, business intelligence and analytic",2,senior manager business intelligence and analytic,business intelligence,great,95.0,senior manager,,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 82, great)",82.0,,,"(business intelligence, 95, great)",95.0,great,business intelligence
+66,"senior director, enterprise architecture & innovation",2,senior director enterprise architecture innovation,,,,senior director,enterprise architecture innovation,"(data architecture, 83, great)",83.0,,,"(information architect, 65, great)",65.0,,,"(data architecture, 86, great)",86.0,,
+67,senior data analyst,2,senior data analyst,data analyst,,,senior,,,,,,,,,,,,,
+68,risk manager,2,risk manager,ignore,,,manager,risk,"(chief risk officer, 100, common)",100.0,common,chief risk officer,"(chief risk officer, 36, common)",36.0,,,"(chief operating officer, 45, great)",45.0,,
+69,purchasing manager,2,purchasing manager,ignore,,,manager,purchasing,"(architect, 42, common)",42.0,,,"(architect, 42, common)",42.0,,,"(chief operating officer, 54, great)",54.0,,
+70,purchasing,2,purchasing,,,,,,,,,,,,,,,,,
+71,project manager - special projects,2,project manager special project,ignore,,,project manager project,special,"(financial systems, 33, common)",33.0,,,"(financial systems, 33, common)",33.0,,,"(master data governance, 39, great)",39.0,,
+72,project leader,2,project leader,,,,project leader,,,,,,,,,,,,,
+73,proj manager (consultant â€“ systems evolution),2,proj manager consultant systems evolution,,,,manager consultant,proj systems evolution,"(systems analyst, 64, common)",64.0,,,"(systems engineer, 63, common)",63.0,,,"(business intelligence, 37, great)",37.0,,
+74,program manager integration & data services,2,program manager integration data services,data services,,,program manager,integration data services,"(data services, 100, great)",100.0,great,data services,"(data services, 68, great)",68.0,,,"(data services, 90, great)",90.0,great,data services
+75,product manager derivserv,2,product manager derivserv,,,,manager,product derivserv,"(enterprise solutions, 49, common)",49.0,,,"(enterprise solutions, 49, common)",49.0,,,"(data services, 47, great)",47.0,,
+76,process improvement senior manager,2,process improvement senior manager,,,,senior manager,process improvement,"(chief investment officer, 51, common)",51.0,,,"(chief investment officer, 51, common)",51.0,,,"(information management, 44, great)",44.0,,
+77,principal information manager,2,principal information manager,ignore,,,principal manager,information,"(information management, 100, great)",100.0,great,information management,"(information architect, 69, great)",69.0,,,"(information management, 90, great)",90.0,great,information management
+80,md governance manager,2,md governance manager,,,,manager,md governance,"(master data governance, 87, great)",87.0,,,"(data governance, 71, great)",71.0,,,"(master data governance, 86, great)",86.0,,
+81,managing partner,2,managing partner,ignore,,,managing,partner,"(data manager, 53, great)",53.0,,,"(data manager, 53, great)",53.0,,,"(data manager, 53, great)",53.0,,
+82,"manager, data architecture",2,manager data architecture,data architecture,,,manager,,,,,,,,,,,,,
+83,manager finance it architecture & strategy,2,manager finance it architecture strategy,,,,manager,finance it architecture strategy,"(data architecture, 83, great)",83.0,,,"(data architecture, 65, great)",65.0,,,"(data architecture, 86, great)",86.0,,
+84,lead architect,2,lead architect,architect,,,lead,,,,,,,,,,,,,
+85,it specialist,2,it specialist,ignore,,,specialist,it,"(architect, 36, common)",36.0,,,"(architect, 36, common)",36.0,,,"(data architect, 90, great)",90.0,great,data architect
+86,it business systems analyst,2,it business systems analyst,,,,,,,,,,,,,,,,,
+87,head of data governance - operations,2,head of data governance operations,data governance,,,head,data governance operations,"(data governance, 100, great)",100.0,great,data governance,"(master data governance, 75, great)",75.0,,,"(data governance, 90, great)",90.0,great,data governance
+88,head of data governance,2,head of data governance,data governance,,,head,,,,,,,,,,,,,
+89,head of data architecture,2,head of data architecture,data architecture,,,head,,,,,,,,,,,,,
+90,governance operationalization lead,2,governance operationalization lead,,,,lead,governance operationalization,"(data governance, 80, great)",80.0,,,"(master data governance, 51, great)",51.0,,,"(data governance, 86, great)",86.0,,
+91,global head of data governance,2,global head of data governance,data governance,,,global head,,,,,,,,,,,,,
+92,global data architecture,2,global data architecture,data architecture,,,global,,,,,,,,,,,,,
+93,etl architect,2,etl architect,etl architect,common,100.0,,,,,,,,,,,,,,
+94,enterprise data governance lead,2,enterprise data governance lead,enterprise data governance,,,lead,,,,,,,,,,,,,
+95,enterprise architecture - information governance,2,enterprise architecture information governance,,,,,,,,,,,,,,,,,
+96,ditg / del / domaine acquisition et echanges de donnã©es,2,ditg del domaine acquisition et echanges de donn es,,,,,,,,,,,,,,,,,
+97,"director, enterprise architecture",2,director enterprise architecture,,,,director,enterprise architecture,"(data architecture, 83, great)",83.0,,,"(data architecture, 70, great)",70.0,,,"(data architecture, 79, great)",79.0,,
+98,"director, customer data strategy",2,director customer data strategy,,,,director,customer data strategy,"(master data manager, 59, common)",59.0,,,"(database administrator, 50, common)",50.0,,,"(data services, 86, great)",86.0,,
+99,director of data governance,2,director of data governance,data governance,,,director,,,,,,,,,,,,,
+100,director enterprise business intelligence,2,director enterprise business intelligence,business intelligence,,,director,enterprise business intelligence,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 79, great)",79.0,,,"(business intelligence, 90, great)",90.0,great,business intelligence
+101,director data management,2,director data management,data management,,,director,,,,,,,,,,,,,
+102,director data governance,2,director data governance,data governance,,,director,,,,,,,,,,,,,
+103,director clinical informatics,2,director clinical informatics,,,,director,clinical informatics,"(information architect, 63, great)",63.0,,,"(information architect, 63, great)",63.0,,,"(information architect, 60, great)",60.0,,
+104,director _ itg ei data services,2,director itg ei data services,data services,,,director,itg ei data services,"(data services, 100, great)",100.0,great,data services,"(data services, 79, great)",79.0,,,"(data services, 90, great)",90.0,great,data services
+105,director - data management,2,director data management,data management,,,director,,,,,,,,,,,,,
+106,"dir, bi and data management",2,director business intelligence and data management,data management,,,director,business intelligence data management,"(data management, 100, great)",100.0,great,data management,"(business intelligence, 72, great)",72.0,,,"(data management, 90, great)",90.0,great,data management
+107,development manager,2,development manager,ignore,,,manager,development,"(application development, 100, common)",100.0,common,application development,"(developer, 80, common)",80.0,,,"(data management, 46, great)",46.0,,
+108,deputy cdo for global finance,2,deputy chief data officer for global finance,chief data officer,,,global,deputy chief data officer finance,"(chief data officer, 100, great)",100.0,great,chief data officer,"(chief data officer, 71, great)",71.0,,,"(chief data officer, 90, great)",90.0,great,chief data officer
+109,data systems architect,2,data systems architect,,,,,,,,,,,,,,,,,
+110,data governance project mgr,2,data governance project manager,data governance,,,project manager,,,,,,,,,,,,,
+111,data governance consultant,2,data governance consultant,data governance,,,consultant,,,,,,,,,,,,,
+112,"corporate data advocate - information quality group, finance & accounting",2,corporate data advocate information quality group finance accounting,,,,,,,,,,,,,,,,,
+113,coo,2,chief operating officer,chief operating officer,common,100.0,,,,,,,,,,,,,,
+114,compliance director,2,compliance director,ignore,,,director,compliance,"(chief compliance officer, 100, common)",100.0,common,chief compliance officer,"(chief compliance officer, 59, common)",59.0,,,"(master data governance, 45, great)",45.0,,
+115,client partner,2,client partner,,,,,,,,,,,,,,,,,
+116,chief enterprise architect,2,chief enterprise architect,,,,,,,,,,,,,,,,,
+117,ceo,2,chief executive officer,chief executive officer,common,100.0,,,,,,,,,,,,,,
+118,business intelligence manager,2,business intelligence manager,business intelligence,,,manager,,,,,,,,,,,,,
+119,bi business manager,2,business intelligence business manager,business intelligence,great,95.0,manager,,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 82, great)",82.0,,,"(business intelligence, 95, great)",95.0,great,business intelligence
+120,bi & data mgmt mgr.,2,business intelligence data management manager,data management,,,manager,business intelligence data management,"(data management, 100, great)",100.0,great,data management,"(business intelligence, 72, great)",72.0,,,"(data management, 90, great)",90.0,great,data management
+121,assistant general counsel,2,assistant general counsel,,,,assistant,general counsel,"(business intelligence, 50, great)",50.0,,,"(business intelligence, 50, great)",50.0,,,"(business intelligence, 48, great)",48.0,,
+122,applications development manager,2,applications development manager,application development,common,98.0,manager,,"(application development, 98, common)",98.0,common,application development,"(application development, 98, common)",98.0,common,application development,"(information management, 52, great)",52.0,,
+123,vp/cmio,1,vice president chief medical informatics officer,,,,vice president,chief medical informatics officer,"(chief data officer, 84, great)",84.0,,,"(chief information officer, 79, common)",79.0,,,"(chief data officer, 86, great)",86.0,,
+124,"vp, shared services it",1,vice president shared services it,,,,vice president,shared services it,"(data services, 76, great)",76.0,,,"(data services, 65, great)",65.0,,,"(data services, 72, great)",72.0,,
+125,"vp, sales & marketing it",1,vice president sales marketing it,,,,vice president,sales marketing it,"(master data manager, 49, common)",49.0,,,"(master data manager, 49, common)",49.0,,,"(chief operating officer, 44, great)",44.0,,
+126,"vp, manager instrument reference data",1,vice president manager instrument reference data,,,,vice president manager,instrument reference data,"(enterprise data governance, 59, common)",59.0,,,"(enterprise data governance, 59, common)",59.0,,,"(data services, 86, great)",86.0,,
+127,"vp, information technology",1,vice president information technology,information technology,,,vice president,,,,,,,,,,,,,
+128,"vp, global finance",1,vice president global finance,ignore,,,vice president global,finance,"(financial systems, 58, common)",58.0,,,"(financial systems, 58, common)",58.0,,,"(master data governance, 64, great)",64.0,,
+129,"vp, enterprise information managemnet",1,vice president enterprise information managemnet,enterprise information management,common,97.0,vice president,,"(enterprise information management, 97, common)",97.0,common,enterprise information management,"(enterprise information management, 97, common)",97.0,common,enterprise information management,"(information management, 86, great)",86.0,,
+130,"vp, enterprise data management and governance",1,vice president enterprise data management and governance,data management,great,90.0,vice president,,"(data management, 100, great)",100.0,great,data management,"(enterprise data governance, 83, common)",83.0,,,"(data management, 90, great)",90.0,great,data management
+131,"vp, dg manager",1,vice president data governance manager,data governance,,,vice president manager,,,,,,,,,,,,,
+132,"vp, data strategy wealth management",1,vice president data strategy wealth management,,,,vice president,data strategy wealth management,"(data management, 100, great)",100.0,great,data management,"(data management, 65, great)",65.0,,,"(chief data officer, 86, great)",86.0,,
+133,"vp, data strategy investment management",1,vice president data strategy investment management,,,,vice president,data strategy investment management,"(data management, 100, great)",100.0,great,data management,"(data management, 60, great)",60.0,,,"(master data governance, 86, great)",86.0,,
+134,"vp, data management",1,vice president data management,data management,,,vice president,,,,,,,,,,,,,
+135,"vp, data integrity",1,vice president data integrity,,,,vice president,data integrity,"(data engineering, 67, common)",67.0,,,"(data engineering, 67, common)",67.0,,,"(master data governance, 86, great)",86.0,,
+136,"vp, cio",1,vice president chief information officer,chief information officer,,,vice president,,,,,,,,,,,,,
+137,"vp, cfo",1,vice president chief financial officer,,,,vice president,chief financial officer,"(chief data officer, 84, great)",84.0,,,"(chief data officer, 78, great)",78.0,,,"(chief data officer, 80, great)",80.0,,
+138,"vp, business intelligence & data",1,vice president business intelligence data,business intelligence,great,95.0,vice president,,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 89, great)",89.0,,,"(business intelligence, 95, great)",95.0,great,business intelligence
+139,"vp, architecture",1,vice president architecture,ignore,,,vice president,architecture,"(data architecture, 100, great)",100.0,great,data architecture,"(architect, 86, common)",86.0,,,"(data architecture, 95, great)",95.0,great,data architecture
+140,vp treasury,1,vice president treasury,ignore,,,vice president,treasury,"(master data, 42, great)",42.0,,,"(master data, 42, great)",42.0,,,"(data services, 45, great)",45.0,,
+141,vp technology,1,vice president technology,ignore,,,vice president,technology,"(chief technology officer, 100, common)",100.0,common,chief technology officer,"(information technology, 63, common)",63.0,,,"(information architect, 43, great)",43.0,,
+142,vp systems architecture,1,vice president systems architecture,,,,vice president,systems architecture,"(data architecture, 83, great)",83.0,,,"(data architecture, 76, great)",76.0,,,"(data architecture, 79, great)",79.0,,
+143,vp strategy and change mgmt,1,vice president strategy and change management,,,,vice president,strategy change management,"(data management, 80, great)",80.0,,,"(assessor quality management, 64, common)",64.0,,,"(data management, 86, great)",86.0,,
+144,vp predictive analytics,1,vice president predictive analytics,analytics,,,vice president,predictive analytics,"(analytics, 100, great)",100.0,great,analytics,"(data analytics, 71, common)",71.0,,,"(analytics, 90, great)",90.0,great,analytics
+145,vp of risk,1,vice president of risk,ignore,,,vice president,risk,"(chief risk officer, 100, common)",100.0,common,chief risk officer,"(chief risk officer, 36, common)",36.0,,,"(chief operating officer, 45, great)",45.0,,
+146,vp of it sourcing / procurement,1,vice president of it sourcing procurement,,,,vice president,it procurement,"(data management, 48, great)",48.0,,,"(data management, 48, great)",48.0,,,"(data management, 48, great)",48.0,,
+147,vp of it,1,vice president of it,ignore,,,vice president,it,"(architect, 36, common)",36.0,,,"(architect, 36, common)",36.0,,,"(data architect, 90, great)",90.0,great,data architect
+148,vp of finance,1,vice president of finance,ignore,,,vice president,finance,"(financial systems, 58, common)",58.0,,,"(financial systems, 58, common)",58.0,,,"(master data governance, 64, great)",64.0,,
+149,vp of data management,1,vice president of data management,data management,,,vice president,,,,,,,,,,,,,
+150,vp of data governance and bi,1,vice president of data governance and business intelligence,data governance,,,vice president,data governance business intelligence,"(data governance, 100, great)",100.0,great,data governance,"(business intelligence, 72, great)",72.0,,,"(data governance, 90, great)",90.0,great,data governance
+151,vp of data governance,1,vice president of data governance,data governance,,,vice president,,,,,,,,,,,,,
+152,vp of bi - business information management,1,vice president of business intelligence business information management,information management,,,vice president,business intelligence business information management,"(information management, 100, great)",100.0,great,information management,"(enterprise information management, 63, common)",63.0,,,"(information management, 90, great)",90.0,great,information management
+153,vp of applications @ amerihealth caritas,1,vice president of applications amerihealth caritas,,,,vice president,applications amerihealth caritas,"(data analytics, 48, common)",48.0,,,"(data analytics, 48, common)",48.0,,,"(information architect, 51, great)",51.0,,
+154,"vp major programs, coo",1,vice president major programs chief operating officer,chief operating officer,,,vice president,major programs chief operating officer,"(chief operating officer, 100, great)",100.0,great,chief operating officer,"(chief operating officer, 75, great)",75.0,,,"(chief operating officer, 90, great)",90.0,great,chief operating officer
+155,vp life and annuity finance,1,vice president life and annuity finance,,,,vice president,life annuity finance,"(master data governance, 48, great)",48.0,,,"(master data governance, 48, great)",48.0,,,"(chief data officer, 53, great)",53.0,,
+156,vp information and data services,1,vice president information and data services,data services,,,vice president,information data services,"(data services, 100, great)",100.0,great,data services,"(data services, 68, great)",68.0,,,"(data services, 90, great)",90.0,great,data services
+157,vp holland professional services,1,vice president holland professional services,,,,vice president,holland professional services,"(data services, 76, great)",76.0,,,"(data services, 52, great)",52.0,,,"(data services, 86, great)",86.0,,
+158,"vp finance technology, global business operations & legal",1,vice president finance technology global business operations legal,,,,vice president global,finance technology business operations legal,"(operations analyst, 71, common)",71.0,,,"(information technology, 64, common)",64.0,,,"(business intelligence, 86, great)",86.0,,
+159,vp enterprise services strategy,1,vice president enterprise services strategy,,,,vice president,enterprise services strategy,"(data services, 76, great)",76.0,,,"(enterprise data governance, 59, common)",59.0,,,"(data services, 86, great)",86.0,,
+160,vp enterprise risk management & compliance,1,vice president enterprise risk management compliance,,,,vice president,enterprise risk management compliance,"(data management, 80, great)",80.0,,,"(enterprise information management, 60, common)",60.0,,,"(information management, 86, great)",86.0,,
+161,vp enterprise data governance,1,vice president enterprise data governance,enterprise data governance,,,vice president,,,,,,,,,,,,,
+162,vp data strategy,1,vice president data strategy,,,,vice president,data strategy,"(master data, 67, great)",67.0,,,"(master data, 67, great)",67.0,,,"(master data governance, 86, great)",86.0,,
+163,"vp data governance data architect,us fbo regulation project team",1,vice president data governance data architect us fbo regulation project team,data governance,,,vice president project,data governance data architect us fbo regulation team,"(data governance, 100, great)",100.0,great,data governance,"(master data governance, 51, great)",51.0,,,"(data governance, 90, great)",90.0,great,data governance
+164,vp data governance,1,vice president data governance,data governance,,,vice president,,,,,,,,,,,,,
+165,vp data delivery & architecture,1,vice president data delivery architecture,,,,vice president,data delivery architecture,"(data architecture, 100, great)",100.0,great,data architecture,"(data architecture, 79, great)",79.0,,,"(data services, 86, great)",86.0,,
+166,vp data analytics,1,vice president data analytics,data analytics,,,vice president,,,,,,,,,,,,,
+167,vp corporate medical informatics,1,vice president corporate medical informatics,,,,vice president,corporate medical informatics,"(chief information officer, 56, common)",56.0,,,"(chief information officer, 56, common)",56.0,,,"(analytics, 50, great)",50.0,,
+168,vp consumer technologoy,1,vice president consumer technologoy,,,,vice president,consumer technologoy,"(chief technology officer, 68, common)",68.0,,,"(chief technology officer, 68, common)",68.0,,,"(master data, 41, great)",41.0,,
+169,vp bi,1,vice president business intelligence,business intelligence,,,vice president,,,,,,,,,,,,,
+170,vp / cio,1,vice president chief information officer,chief information officer,,,vice president,,,,,,,,,,,,,
+171,vp & chief enterprise architect,1,vice president chief enterprise architect,,,,vice president,chief enterprise architect,"(architect, 100, common)",100.0,common,architect,"(etl architect, 62, common)",62.0,,,"(data architect, 86, great)",86.0,,
+172,vp - principal technology architect,1,vice president principal technology architect,,,,vice president principal,technology architect,"(architect, 100, common)",100.0,common,architect,"(chief technology officer, 73, common)",73.0,,,"(data architect, 74, great)",74.0,,
+173,vp - it - dw arch,1,vice president it data warehouse arch,data warehouse,,,vice president,it data warehouse arch,"(data warehouse, 100, great)",100.0,great,data warehouse,"(data warehouse, 78, great)",78.0,,,"(data warehouse, 90, great)",90.0,great,data warehouse
+174,vp - fp&a,1,vice president fp,ignore,,,vice president,fp,"(developer, 18, common)",18.0,,,"(developer, 18, common)",18.0,,,"(chief data officer, 30, great)",30.0,,
+175,vp - enterprise data quality,1,vice president enterprise data quality,,,,vice president,enterprise data quality,"(enterprise data governance, 79, common)",79.0,,,"(enterprise data governance, 69, common)",69.0,,,"(data services, 86, great)",86.0,,
+176,vp,1,vice president,,,,vice president,,,,,,,,,,,,,
+177,"vice president, model validation, process management and model governance system",1,vice president model validation process management and model governance system,,,,vice president,model validation process management model governance system,"(data management, 80, great)",80.0,,,"(assessor quality management, 42, common)",42.0,,,"(master data governance, 86, great)",86.0,,
+178,"vice president, information management risk lead",1,vice president information management risk lead,information management,great,100.0,vice president lead,,"(information management, 100, great)",100.0,great,information management,"(information management, 90, great)",90.0,great,information management,"(information management, 95, great)",95.0,great,information management
+179,"vice president, human resources",1,vice president human resources,,,,vice president,human resources,"(data services, 50, great)",50.0,,,"(data services, 50, great)",50.0,,,"(data services, 50, great)",50.0,,
+180,"vice president, enterprise information management",1,vice president enterprise information management,enterprise information management,,,vice president,,,,,,,,,,,,,
+181,"vice president, enterprise data governance",1,vice president enterprise data governance,enterprise data governance,,,vice president,,,,,,,,,,,,,
+182,"vice president, data resource management",1,vice president data resource management,,,,vice president,data resource management,"(data management, 100, great)",100.0,great,data management,"(data management, 77, great)",77.0,,,"(data services, 86, great)",86.0,,
+183,"vice president, data modeling management",1,vice president data modeling management,,,,vice president,data modeling management,"(data management, 100, great)",100.0,great,data management,"(data management, 77, great)",77.0,,,"(data services, 86, great)",86.0,,
+184,"vice president, data governance",1,vice president data governance,data governance,,,vice president,,,,,,,,,,,,,
+185,"vice president, compliance",1,vice president compliance,ignore,,,vice president,compliance,"(chief compliance officer, 100, common)",100.0,common,chief compliance officer,"(chief compliance officer, 59, common)",59.0,,,"(master data governance, 45, great)",45.0,,
+186,vice president enterprise application & information services,1,vice president enterprise application information services,,,,vice president,enterprise application information services,"(enterprise information management, 80, common)",80.0,,,"(enterprise information management, 66, common)",66.0,,,"(data services, 86, great)",86.0,,
+187,vice president big data analytics and strategy,1,vice president big data analytics and strategy,analytics,,,vice president,big data analytics strategy,"(analytics, 100, great)",100.0,great,analytics,"(data analytics, 68, common)",68.0,,,"(analytics, 90, great)",90.0,great,analytics
+188,"vice president and global head, data governance",1,vice president and global head data governance,data governance,,,vice president global head,,,,,,,,,,,,,
+189,vice president - data projects at barclays,1,vice president data project at barclays,,,,vice president project,data at barclays,"(data analyst, 71, common)",71.0,,,"(data analyst, 71, common)",71.0,,,"(data standards, 60, great)",60.0,,
+190,test automation engineer,1,test automation engineer,,,,,,,,,,,,,,,,,
+191,"technology, informatica integration",1,technology informatica integration,,,,,,,,,,,,,,,,,
+192,technology relationship manager,1,technology relationship manager,,,,manager,technology relationship,"(information technology, 76, common)",76.0,,,"(information technology, 76, common)",76.0,,,"(information architect, 45, great)",45.0,,
+193,"technology manager, bi - j&j shared services",1,technology manager business intelligence shared services,business intelligence,,,manager,technology business intelligence shared services,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 61, great)",61.0,,,"(business intelligence, 90, great)",90.0,great,business intelligence
+194,technology consultant,1,technology consultant,ignore,,,consultant,technology,"(chief technology officer, 100, common)",100.0,common,chief technology officer,"(information technology, 63, common)",63.0,,,"(information architect, 43, great)",43.0,,
+195,technology associate,1,technology associate,ignore,,,associate,technology,"(chief technology officer, 100, common)",100.0,common,chief technology officer,"(information technology, 63, common)",63.0,,,"(information architect, 43, great)",43.0,,
+196,technical manager,1,technical manager,ignore,,,manager,technical,"(etl architect, 45, common)",45.0,,,"(etl architect, 45, common)",45.0,,,"(data architect, 43, great)",43.0,,
+197,technical director systems architect,1,technical director systems architect,,,,director,technical systems architect,"(architect, 100, common)",100.0,common,architect,"(etl architect, 65, common)",65.0,,,"(data architect, 86, great)",86.0,,
+198,team lead bicc,1,team lead business intelligence competency center,business intelligence,,,lead,team business intelligence competency center,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 65, great)",65.0,,,"(business intelligence, 90, great)",90.0,great,business intelligence
+199,t senior manager - vendor management - ocio,1,senior manager vendor management ocio,,,,senior manager,vendor management ocio,"(data management, 80, great)",80.0,,,"(data management, 54, great)",54.0,,,"(data management, 76, great)",76.0,,
+200,"svp, risk integration data quality manager",1,senior vice president risk integration data quality manager,,,,senior vice president manager,risk integration data quality,"(data analysis, 57, common)",57.0,,,"(master data governance, 51, great)",51.0,,,"(chief data officer, 86, great)",86.0,,
+201,"svp, cio enterprise application developm",1,senior vice president chief information officer enterprise application developm,,,,senior vice president,chief information officer enterprise application developm,"(chief information officer, 100, common)",100.0,common,chief information officer,"(chief information officer, 61, common)",61.0,,,"(chief data officer, 86, great)",86.0,,
+202,"svp, cio & enterprise transformation leader",1,senior vice president chief information officer enterprise transformation leader,,,,senior vice president leader,chief information officer enterprise transformation,"(chief information officer, 100, common)",100.0,common,chief information officer,"(chief information officer, 66, common)",66.0,,,"(chief data officer, 86, great)",86.0,,
+203,"svp, chief data officer",1,senior vice president chief data officer,chief data officer,,,senior vice president,,,,,,,,,,,,,
+204,"svp, (it sponsor)",1,senior vice president it sponsor,,,,senior vice president,it sponsor,"(solutions architect, 48, common)",48.0,,,"(solutions architect, 48, common)",48.0,,,"(information architect, 43, great)",43.0,,
+205,svp of corporate services,1,senior vice president of corporate services,,,,senior vice president,corporate services,"(data services, 76, great)",76.0,,,"(data services, 71, great)",71.0,,,"(data services, 72, great)",72.0,,
+206,svp delivery and customer success,1,senior vice president delivery and customer success,,,,senior vice president,delivery customer success,"(business intelligence, 43, great)",43.0,,,"(business intelligence, 43, great)",43.0,,,"(data services, 42, great)",42.0,,
+207,svp data management and bi,1,senior vice president data management and business intelligence,data management,,,senior vice president,data management business intelligence,"(data management, 100, great)",100.0,great,data management,"(business intelligence, 72, great)",72.0,,,"(data management, 90, great)",90.0,great,data management
+208,svp chief op rick officer,1,senior vice president chief op rick officer,,,,senior vice president,chief op rick officer,"(chief risk officer, 87, common)",87.0,,,"(chief risk officer, 87, common)",87.0,,,"(chief operating officer, 82, great)",82.0,,
+209,svp chief consumer credit risk officer,1,senior vice president chief consumer credit risk officer,,,,senior vice president,chief consumer credit risk officer,"(chief risk officer, 100, common)",100.0,common,chief risk officer,"(chief risk officer, 69, common)",69.0,,,"(chief data officer, 86, great)",86.0,,
+210,svp analytics,1,senior vice president analytics,analytics,,,senior vice president,,,,,,,,,,,,,
+211,svp - business intelligence (functions as cdo),1,senior vice president business intelligence functions as chief data officer,chief data officer,,,senior vice president,business intelligence functions as chief data officer,"(chief data officer, 100, great)",100.0,great,chief data officer,"(business intelligence, 57, great)",57.0,,,"(chief data officer, 90, great)",90.0,great,chief data officer
+212,supply chain intelligence,1,supply chain intelligence,,,,,,,,,,,,,,,,,
+213,supplier oversight analyst - vendor management,1,supplier oversight analyst vendor management,,,,,,,,,,,,,,,,,
+214,supervisor static data data management,1,supervisor static data data management,,,,,,,,,,,,,,,,,
+215,strategist,1,strategist,,,,strategist,,,,,,,,,,,,,
+216,strategic sourcing consultant supply chain management,1,strategic sourcing consultant supply chain management,,,,consultant,strategic supply chain management,"(data management, 80, great)",80.0,,,"(assessor quality management, 53, common)",53.0,,,"(information management, 86, great)",86.0,,
+217,strategic communications specialist,1,strategic communications specialist,,,,specialist,strategic communications,"(information technology, 48, common)",48.0,,,"(information technology, 48, common)",48.0,,,"(analytics, 50, great)",50.0,,
+218,staff director,1,staff director,ignore,,,director,staff,"(chief data officer, 35, great)",35.0,,,"(chief data officer, 35, great)",35.0,,,"(chief data officer, 54, great)",54.0,,
+219,sr. systems analyst,1,senior systems analyst,systems analyst,,,senior,,,,,,,,,,,,,
+220,sr. risk officer - international finance corporation,1,senior risk officer international finance corporation,,,,senior,risk officer international finance corporation,"(chief risk officer, 80, common)",80.0,,,"(chief information officer, 56, common)",56.0,,,"(chief data officer, 86, great)",86.0,,
+221,sr. project lead,1,senior project lead,,,,senior project lead,,,,,,,,,,,,,
+222,sr. portfolio manager - eim - it - business planning & management,1,senior portfolio manager enterprise information management it business planning management,information management,,,senior manager,portfolio enterprise information management it business planning management,"(information management, 100, great)",100.0,great,information management,"(enterprise information management, 61, common)",61.0,,,"(information management, 90, great)",90.0,great,information management
+223,sr. manager software engineering and product management,1,senior manager software engineering and product management,,,,senior manager,software engineering product management,"(data engineering, 81, common)",81.0,,,"(software engineer, 61, common)",61.0,,,"(information management, 86, great)",86.0,,
+224,sr. manager it data strategy,1,senior manager it data strategy,,,,senior manager,it data strategy,"(data architecture, 61, great)",61.0,,,"(master data, 59, great)",59.0,,,"(data architecture, 58, great)",58.0,,
+225,sr. manager data governance,1,senior manager data governance,data governance,,,senior manager,,,,,,,,,,,,,
+226,sr. manager - data analytics,1,senior manager data analytics,data analytics,,,senior manager,,,,,,,,,,,,,
+227,sr. manager â€“ data analysis,1,senior manager data analysis,data analysis,,,senior manager,,,,,,,,,,,,,
+228,sr. manager,1,senior manager,,,,senior manager,,,,,,,,,,,,,
+229,sr. information architect - global architecture,1,senior information architect global architecture,information architect,,,senior global,information architect architecture,"(information architect, 100, great)",100.0,great,information architect,"(information architect, 76, great)",76.0,,,"(information architect, 90, great)",90.0,great,information architect
+230,sr. enterprise architect,1,senior enterprise architect,,,,senior,enterprise architect,"(architect, 100, common)",100.0,common,architect,"(etl architect, 73, common)",73.0,,,"(data architect, 74, great)",74.0,,
+231,"sr. director, data management and reporting",1,senior director data management and reporting,data management,,,senior director,data management reporting,"(data management, 100, great)",100.0,great,data management,"(data management, 75, great)",75.0,,,"(data management, 90, great)",90.0,great,data management
+232,sr. director of compliance north america,1,senior director of compliance north america,,,,senior director,compliance north america,"(chief compliance officer, 63, common)",63.0,,,"(chief compliance officer, 63, common)",63.0,,,"(data services, 45, great)",45.0,,
+233,sr. director,1,senior director,,,,senior director,,,,,,,,,,,,,
+234,sr. direcror - application development,1,senior direcror application development,,,,senior,direcror application development,"(application development, 100, common)",100.0,common,application development,"(application development, 84, common)",84.0,,,"(information management, 52, great)",52.0,,
+235,sr. dir of  customer service and business process optimization,1,senior director of customer service and business process optimization,,,,senior director,customer service business process optimization,"(business analyst, 67, great)",67.0,,,"(business solutions, 50, common)",50.0,,,"(business intelligence, 86, great)",86.0,,
+236,sr. data governance analyst,1,senior data governance analyst,data governance,,,senior,data governance analyst,"(data governance, 100, great)",100.0,great,data governance,"(data governance, 79, great)",79.0,,,"(data governance, 90, great)",90.0,great,data governance
+237,sr. data analyst and architect,1,senior data analyst and architect,,,,senior,data analyst architect,"(data architect, 100, great)",100.0,great,data architect,"(data architect, 78, great)",78.0,,,"(data services, 86, great)",86.0,,
+238,sr. data analysis manager,1,senior data analysis manager,data analysis,,,senior manager,,,,,,,,,,,,,
+239,sr. consultant â€“ finance | data governance program office,1,senior consultant finance data governance program office,data governance,,,senior consultant program,finance data governance,"(data governance, 100, great)",100.0,great,data governance,"(data governance, 79, great)",79.0,,,"(data governance, 90, great)",90.0,great,data governance
+240,sr. business & data analyst - dg lead,1,senior business data analyst data governance lead,data governance,,,senior lead,business data analyst data governance,"(data governance, 100, great)",100.0,great,data governance,"(business analyst, 60, great)",60.0,,,"(data governance, 90, great)",90.0,great,data governance
+241,"sr. architect, business intelligence",1,senior architect business intelligence,business intelligence,great,95.0,senior,,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 81, great)",81.0,,,"(business intelligence, 95, great)",95.0,great,business intelligence
+242,sr technical procurement,1,senior technical procurement,,,,senior,technical procurement,"(information technology, 51, common)",51.0,,,"(information technology, 51, common)",51.0,,,"(data management, 44, great)",44.0,,
+243,sr technical manager,1,senior technical manager,ignore,,,senior manager,technical,"(etl architect, 45, common)",45.0,,,"(etl architect, 45, common)",45.0,,,"(data architect, 43, great)",43.0,,
+244,sr pm edm & data governance,1,senior project manager edm data governance,data governance,great,95.0,senior project manager,,"(data governance, 100, great)",100.0,great,data governance,"(data governance, 88, great)",88.0,,,"(data governance, 95, great)",95.0,great,data governance
+245,"sr mgr, business intelligence",1,senior manager business intelligence,business intelligence,,,senior manager,,,,,,,,,,,,,
+246,sr mgr of data management,1,senior manager of data management,data management,,,senior manager,,,,,,,,,,,,,
+247,"sr manager, tech integrations it",1,senior manager tech integrations it,,,,senior manager,tech integrations it,"(information technology, 62, common)",62.0,,,"(information technology, 62, common)",62.0,,,"(information architect, 54, great)",54.0,,
+248,"sr manager, bi it",1,senior manager business intelligence it,business intelligence,great,100.0,senior manager,,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 93, great)",93.0,great,business intelligence,"(business intelligence, 95, great)",95.0,great,business intelligence
+249,sr manager - bi / enterprise reporting & analytics,1,senior manager business intelligence enterprise reporting analytics,business intelligence,,,senior manager,business intelligence enterprise reporting analytics,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 58, great)",58.0,,,"(business intelligence, 90, great)",90.0,great,business intelligence
+250,sr director of infrastructure & operations,1,senior director of infrastructure operations,,,,senior director,infrastructure operations,"(operations analyst, 71, common)",71.0,,,"(operations analyst, 70, common)",70.0,,,"(information architect, 54, great)",54.0,,
+251,sr director,1,senior director,,,,senior director,,,,,,,,,,,,,
+252,sr data warehouse analyst,1,senior data warehouse analyst,data warehouse,,,senior,data warehouse analyst,"(data warehouse, 100, great)",100.0,great,data warehouse,"(database analyst, 79, common)",79.0,,,"(data warehouse, 90, great)",90.0,great,data warehouse
+253,sr audit compliance engineer,1,senior audit compliance engineer,,,,senior,audit compliance engineer,"(systems engineer, 67, common)",67.0,,,"(chief compliance officer, 65, common)",65.0,,,"(data manager, 49, great)",49.0,,
+254,"sr associate,  lead of era",1,senior associate lead of era,ignore,,,senior associate lead,era,"(data governance, 33, great)",33.0,,,"(data governance, 33, great)",33.0,,,"(chief operating officer, 90, great)",90.0,great,chief operating officer
+255,"specialist, systems & process management",1,specialist systems process management,,,,specialist,systems process management,"(data management, 80, great)",80.0,,,"(systems engineer, 62, common)",62.0,,,"(data management, 86, great)",86.0,,
+256,sourcing specialist,1,sourcing specialist,,,,specialist,,,,,,,,,,,,,
+257,"sourcing category manager, software",1,sourcing category manager software,,,,manager,category software,"(software engineer, 71, common)",71.0,,,"(software engineer, 71, common)",71.0,,,"(data steward, 55, great)",55.0,,
+258,sourcing and contract specialist,1,sourcing and contract specialist,ignore,,,specialist,contract,"(architect, 47, common)",47.0,,,"(architect, 47, common)",47.0,,,"(master data governance, 45, great)",45.0,,
+259,sourcing & procurement services,1,sourcing procurement services,,,,,,,,,,,,,,,,,
+260,"sourcing - associate director, information management & technology - global procurement",1,sourcing associate director information management technology global procurement,information management,,,associate director global,information management technology procurement,"(information management, 100, great)",100.0,great,information management,"(information management, 66, great)",66.0,,,"(information management, 90, great)",90.0,great,information management
+261,solution architect / solution architecture / is division,1,solution architect solution architecture is division,,,,,,,,,,,,,,,,,
+262,software contract negotiator,1,software contract negotiator,,,,,,,,,,,,,,,,,
+263,snr. manager master data management - financial systems - verizon corporate,1,senior manager master data management financial systems verizon corporate,master data,,,senior manager,master data management financial systems verizon corporate,"(master data, 100, great)",100.0,great,master data,"(master data manager, 47, common)",47.0,,,"(master data, 90, great)",90.0,great,master data
+264,senior vice president chief information officer,1,senior vice president chief information officer,chief information officer,,,senior vice president,,,,,,,,,,,,,
+265,senior systems analyst (sponsored data expert),1,senior systems analyst sponsored data expert,,,,senior,systems analyst sponsored data expert,"(data analyst, 100, common)",100.0,common,data analyst,"(systems analyst, 58, common)",58.0,,,"(master data governance, 86, great)",86.0,,
+266,"senior sourcing manager, cloud and application platform sourcing",1,senior sourcing manager cloud and application platform sourcing,,,,senior manager,cloud application platform,"(application development, 65, common)",65.0,,,"(application development, 65, common)",65.0,,,"(chief operating officer, 41, great)",41.0,,
+267,senior software engineer,1,senior software engineer,software engineer,,,senior,,,,,,,,,,,,,
+268,"senior project manager, project management office",1,senior project manager project management office,ignore,,,senior project manager project,management,"(information management, 100, great)",100.0,great,information management,"(data management, 80, great)",80.0,,,"(information management, 90, great)",90.0,great,information management
+269,"senior project manager, it pmo",1,senior project manager it project management office,,,,senior project manager project,it management,"(information management, 87, great)",87.0,,,"(data management, 86, great)",86.0,,,"(information management, 86, great)",86.0,,
+270,"senior project manager â€“ reference data, quality and governance",1,senior project manager reference data quality and governance,,,,senior project manager,reference data quality governance,"(data governance, 100, great)",100.0,great,data governance,"(master data governance, 73, great)",73.0,,,"(master data governance, 86, great)",86.0,,
+271,senior program manager,1,senior program manager,,,,senior program manager,,,,,,,,,,,,,
+272,senior procurement analyst global sourcing strategies,1,senior procurement analyst global sourcing strategies,,,,senior global,procurement analyst strategies,"(data analyst, 74, common)",74.0,,,"(operations analyst, 63, common)",63.0,,,"(business analyst, 86, great)",86.0,,
+273,senior partner,1,senior partner,ignore,,,senior,partner,"(data manager, 53, great)",53.0,,,"(data manager, 53, great)",53.0,,,"(data manager, 53, great)",53.0,,
+274,"senior manager, enterprise model risk, analytics, and data",1,senior manager enterprise model risk analytics and data,analytics,,,senior manager,enterprise model risk analytics data,"(analytics, 100, great)",100.0,great,analytics,"(enterprise data governance, 61, common)",61.0,,,"(analytics, 90, great)",90.0,great,analytics
+275,"senior manager, data management",1,senior manager data management,data management,,,senior manager,,,,,,,,,,,,,
+276,"senior manager, corporate purchasing",1,senior manager corporate purchasing,,,,senior manager,corporate purchasing,"(chief operating officer, 47, great)",47.0,,,"(chief operating officer, 47, great)",47.0,,,"(chief operating officer, 45, great)",45.0,,
+277,senior manager sourcing,1,senior manager sourcing,,,,senior manager,,,,,,,,,,,,,
+278,senior manager finance systems,1,senior manager finance systems,,,,senior manager,finance systems,"(financial systems, 88, common)",88.0,,,"(financial systems, 88, common)",88.0,,,"(master data governance, 47, great)",47.0,,
+279,senior manager data management department,1,senior manager data management department,data management,,,senior manager,data management department,"(data management, 100, great)",100.0,great,data management,"(data management, 73, great)",73.0,,,"(data management, 90, great)",90.0,great,data management
+280,senior manager - isd-isd eim data quality & governance,1,senior manager isd isd enterprise information management data quality governance,information management,,,senior manager,isd isd enterprise information management data quality governance,"(information management, 100, great)",100.0,great,information management,"(enterprise information management, 67, common)",67.0,,,"(information management, 90, great)",90.0,great,information management
+281,senior manager - enterprise architecture,1,senior manager enterprise architecture,,,,senior manager,enterprise architecture,"(data architecture, 83, great)",83.0,,,"(data architecture, 70, great)",70.0,,,"(data architecture, 79, great)",79.0,,
+282,senior it manager enterprise data management,1,senior it manager enterprise data management,data management,,,senior manager,it enterprise data management,"(data management, 100, great)",100.0,great,data management,"(enterprise information management, 77, common)",77.0,,,"(data management, 90, great)",90.0,great,data management
+283,senior it manager,1,senior it manager,ignore,,,senior manager,it,"(architect, 36, common)",36.0,,,"(architect, 36, common)",36.0,,,"(data architect, 90, great)",90.0,great,data architect
+284,senior enterprise architect,1,senior enterprise architect,,,,senior,enterprise architect,"(architect, 100, common)",100.0,common,architect,"(etl architect, 73, common)",73.0,,,"(data architect, 74, great)",74.0,,
+285,"senior director, search & data management strategy",1,senior director search data management strategy,data management,,,senior director,search data management strategy,"(data management, 100, great)",100.0,great,data management,"(data management, 65, great)",65.0,,,"(data management, 90, great)",90.0,great,data management
+286,senior director enterprise information architecture,1,senior director enterprise information architecture,information architect,,,senior director,enterprise information architecture,"(data architecture, 83, great)",83.0,,,"(information architect, 75, great)",75.0,,,"(information architect, 90, great)",90.0,great,information architect
+287,senior director data strategy and stewardship,1,senior director data strategy and stewardship,,,,senior director,data strategy stewardship,"(data steward, 65, great)",65.0,,,"(data steward, 65, great)",65.0,,,"(data services, 86, great)",86.0,,
+288,senior director,1,senior director,,,,senior director,,,,,,,,,,,,,
+289,senior data management analyst & associate managing director,1,senior data management analyst associate managing director,data management,,,senior associate managing director,data management analyst,"(data management, 100, great)",100.0,great,data management,"(data management, 79, great)",79.0,,,"(data management, 90, great)",90.0,great,data management
+290,"senior data architect, at a prominent federal agency's enterprise data management office, part of citizant",1,senior data architect at prominent federal agency enterprise data management office part of citizant,data management,,,senior,data architect at prominent federal agency enterprise data management part citizant,"(data management, 100, great)",100.0,great,data management,"(enterprise information management, 43, common)",43.0,,,"(data management, 90, great)",90.0,great,data management
+291,senior data architect,1,senior data architect,data architect,,,senior,,,,,,,,,,,,,
+292,senior consultant - sourcing  | verizon services ireland ltd,1,senior consultant sourcing verizon services ireland ltd,,,,senior consultant,verizon services ireland ltd,"(data services, 76, great)",76.0,,,"(data services, 54, great)",54.0,,,"(data services, 86, great)",86.0,,
+293,senior business architect,1,senior business architect,,,,senior,business architect,"(architect, 100, common)",100.0,common,architect,"(solutions architect, 76, common)",76.0,,,"(data architect, 74, great)",74.0,,
+294,senior business analyst,1,senior business analyst,business analyst,,,senior,,,,,,,,,,,,,
+295,"senior analyst, vendor risk management",1,senior analyst vendor risk management,,,,senior,analyst vendor risk management,"(data management, 80, great)",80.0,,,"(data management, 58, great)",58.0,,,"(data management, 86, great)",86.0,,
+296,senior analyst,1,senior analyst,ignore,,,senior,analyst,"(business analyst, 100, great)",100.0,great,business analyst,"(analytics, 75, great)",75.0,,,"(business analyst, 90, great)",90.0,great,business analyst
+297,sales,1,sales,,,,,,,,,,,,,,,,,
+298,"responsable domaine etudes, reporting &amp; qualitã© des donnã©es",1,responsable domaine etudes reporting amp qualit des donn es,,,,,,,,,,,,,,,,,
+299,reporting manager,1,reporting manager,ignore,,,manager,reporting,"(regulatory reporting, 100, common)",100.0,common,regulatory reporting,"(regulatory reporting, 62, common)",62.0,,,"(chief operating officer, 60, great)",60.0,,
+300,reporting and data warehouse manager,1,reporting and data warehouse manager,data warehouse,,,manager,reporting data warehouse,"(data warehouse, 100, great)",100.0,great,data warehouse,"(data warehouse, 74, great)",74.0,,,"(data warehouse, 90, great)",90.0,great,data warehouse
+301,reporting & clinical analytics,1,reporting clinical analytics,,,,,,,,,,,,,,,,,
+302,"regional data manager (americas), chief data office",1,regional data manager americas chief data office,,,,manager,regional data americas chief data,"(chief data officer, 71, great)",71.0,,,"(data architect, 51, great)",51.0,,,"(master data governance, 86, great)",86.0,,
+303,regional data management officer hong kong,1,regional data management officer hong kong,,,,,,,,,,,,,,,,,
+304,purchasing specialist,1,purchasing specialist,ignore,,,specialist,purchasing,"(architect, 42, common)",42.0,,,"(architect, 42, common)",42.0,,,"(chief operating officer, 54, great)",54.0,,
+305,project specialist,1,project specialist,,,,project specialist,,,,,,,,,,,,,
+306,"project manager, project management office",1,project manager project management office,ignore,,,project manager project,management,"(information management, 100, great)",100.0,great,information management,"(data management, 80, great)",80.0,,,"(information management, 90, great)",90.0,great,information management
+307,"project manager, pmo it",1,project manager project management office it,,,,project manager project,management it,"(information management, 87, great)",87.0,,,"(data management, 86, great)",86.0,,,"(information management, 86, great)",86.0,,
+308,"project manager, epmo",1,project manager epmo,ignore,,,project manager,epmo,"(developer, 31, common)",31.0,,,"(developer, 31, common)",31.0,,,"(chief operating officer, 45, great)",45.0,,
+309,"project manager, dq",1,project manager dq,ignore,,,project manager,dq,"(developer, 18, common)",18.0,,,"(developer, 18, common)",18.0,,,"(data services, 45, great)",45.0,,
+310,project manager for the data lake project,1,project manager for the data lake project,,,,project manager project,data lake,"(master data, 70, great)",70.0,,,"(master data, 70, great)",70.0,,,"(master data governance, 86, great)",86.0,,
+311,project manager / programme management group / is & pmg division,1,project manager programme management group is pmg division,,,,project manager programme,management is pmg division,"(data management, 80, great)",80.0,,,"(information management, 63, great)",63.0,,,"(data management, 86, great)",86.0,,
+312,project manager (external worker),1,project manager external worker,,,,project manager,external worker,"(developer, 50, common)",50.0,,,"(developer, 50, common)",50.0,,,"(master data governance, 43, great)",43.0,,
+313,project manager - data governance / data security programme,1,project manager data governance data security programme,data governance,,,project manager programme,data governance data security,"(data governance, 100, great)",100.0,great,data governance,"(master data governance, 75, great)",75.0,,,"(data governance, 90, great)",90.0,great,data governance
+314,project coordinator group programme management,1,project coordinator group programme management,,,,project programme,coordinator management,"(data management, 80, great)",80.0,,,"(data management, 76, great)",76.0,,,"(data management, 76, great)",76.0,,
+315,project coordinator,1,project coordinator,ignore,,,project,coordinator,"(database administrator, 42, common)",42.0,,,"(database administrator, 42, common)",42.0,,,"(information architect, 50, great)",50.0,,
+316,programme manager,1,programme manager,,,,programme manager,,,,,,,,,,,,,
+317,"programme director, it / special projects",1,programme director it special project,,,,programme director project,it special,"(data steward, 45, great)",45.0,,,"(data steward, 45, great)",45.0,,,"(chief operating officer, 45, great)",45.0,,
+318,program manger - eim,1,program manager enterprise information management,enterprise information management,,,program manager,,,,,,,,,,,,,
+319,"program manager, eim data quality & data governance",1,program manager enterprise information management data quality data governance,information management,,,program manager,enterprise information management data quality data governance,"(information management, 100, great)",100.0,great,information management,"(enterprise information management, 69, common)",69.0,,,"(information management, 90, great)",90.0,great,information management
+320,procurement officer,1,procurement officer,,,,,,,,,,,,,,,,,
+321,procurement manager,1,procurement manager,ignore,,,manager,procurement,"(data architecture, 43, great)",43.0,,,"(data architecture, 43, great)",43.0,,,"(information management, 42, great)",42.0,,
+322,procurement lead,1,procurement lead,ignore,,,lead,procurement,"(data architecture, 43, great)",43.0,,,"(data architecture, 43, great)",43.0,,,"(information management, 42, great)",42.0,,
+323,procurememnt,1,procurememnt,,,,,,,,,,,,,,,,,
+324,principal information management system,1,principal information management system,information management,great,95.0,principal,,"(information management, 100, great)",100.0,great,information management,"(information management, 86, great)",86.0,,,"(information management, 95, great)",95.0,great,information management
+325,principal for etl,1,principal for etl,ignore,,,principal,etl,"(etl architect, 100, common)",100.0,common,etl architect,"(etl architect, 38, common)",38.0,,,"(information management, 60, great)",60.0,,
+326,principal consultant,1,principal consultant,,,,principal consultant,,,,,,,,,,,,,
+327,principal,1,principal,,,,principal,,,,,,,,,,,,,
+328,presales mgr,1,presales manager,ignore,,,manager,presales,"(enterprise solutions, 43, common)",43.0,,,"(enterprise solutions, 43, common)",43.0,,,"(data warehouse, 45, great)",45.0,,
+329,practice manager - dw & analytics,1,practice manager data warehouse analytics,data warehouse,,,manager,practice data warehouse analytics,"(data warehouse, 100, great)",100.0,great,data warehouse,"(data warehouse, 60, great)",60.0,,,"(data warehouse, 90, great)",90.0,great,data warehouse
+330,"portolio director, edge services",1,portolio director edge services,,,,director,portolio edge services,"(data services, 76, great)",76.0,,,"(data services, 63, great)",63.0,,,"(data services, 86, great)",86.0,,
+331,pm - master data,1,project manager master data,master data,,,project manager,,,,,,,,,,,,,
+332,pm,1,project manager,,,,project manager,,,,,,,,,,,,,
+333,paypal procuremen,1,paypal procuremen,,,,,,,,,,,,,,,,,
+334,"partner, advisory",1,partner advisory,,,,,,,,,,,,,,,,,
+335,partner,1,partner,,,,,,,,,,,,,,,,,
+336,operations officer,1,operations officer,,,,,,,,,,,,,,,,,
+337,operations manager,1,operations manager,ignore,,,manager,operations,"(operations analyst, 100, common)",100.0,common,operations analyst,"(operations analyst, 71, common)",71.0,,,"(chief operating officer, 72, great)",72.0,,
+338,"office of the chief information officer, enterrpise architect",1,office of the chief information officer enterrpise architect,,,,,,,,,,,,,,,,,
+339,office of biometric identity management (obim) system business operations (sbo,1,office of biometric identity management obim system business operations sbo,,,,,,,,,,,,,,,,,
+340,o&t campus associate,1,campus associate,ignore,,,associate,campus,"(master data, 35, great)",35.0,,,"(master data, 35, great)",35.0,,,"(master data governance, 43, great)",43.0,,
+341,no longer wtih cablevision,1,no longer wtih cablevision,,,,,,,,,,,,,,,,,
+346,national bi practice manager,1,national business intelligence practice manager,business intelligence,,,manager,national business intelligence practice,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 70, great)",70.0,,,"(business intelligence, 90, great)",90.0,great,business intelligence
+347,"mgr, eim",1,manager enterprise information management,enterprise information management,,,manager,,,,,,,,,,,,,
+348,metadata svcs mrg,1,metadata services mrg,,,,,,,,,,,,,,,,,
+349,metadata architect,1,metadata architect,,,,,,,,,,,,,,,,,
+350,mdr,1,mdr,,,,,,,,,,,,,,,,,
+351,mdm tooling,1,master data manager tooling,master data,,,manager,master data tooling,"(master data, 100, great)",100.0,great,master data,"(master data, 73, great)",73.0,,,"(master data, 90, great)",90.0,great,master data
+352,"md strategy and operational risk, credit suisse",1,md strategy and operational risk credit suisse,,,,,,,,,,,,,,,,,
+353,master data owner,1,master data owner,,,,,,,,,,,,,,,,,
+354,master data manager governance & quality,1,master data manager governance quality,master data governance,great,95.0,manager,,"(master data governance, 100, great)",100.0,great,master data governance,"(master data governance, 85, great)",85.0,,,"(master data governance, 95, great)",95.0,great,master data governance
+355,master data analyst,1,master data analyst,,,,,,,,,,,,,,,,,
+356,"mananger, data & information",1,mananger data information,,,,,,,,,,,,,,,,,
+357,"managing director, fw engineering & architecture",1,managing director fw engineering architecture,,,,managing director,fw engineering architecture,"(data architecture, 83, great)",83.0,,,"(data engineering, 65, common)",65.0,,,"(data architecture, 86, great)",86.0,,
+358,"managing director, data management",1,managing director data management,data management,,,managing director,,,,,,,,,,,,,
+359,"managing director, chief technology officer, data acquisition & hosting",1,managing director chief technology officer data acquisition hosting,,,,managing director,chief technology officer data acquisition hosting,"(chief data officer, 100, great)",100.0,great,chief data officer,"(chief technology officer, 66, common)",66.0,,,"(master data governance, 86, great)",86.0,,
+360,managing director codit,1,managing director codit,ignore,,,managing director,codit,"(architect, 43, common)",43.0,,,"(architect, 43, common)",43.0,,,"(data architecture, 54, great)",54.0,,
+361,managing director - financial systems,1,managing director financial systems,financial systems,,,managing director,,,,,,,,,,,,,
+362,"manager, technology supplier management at capital one",1,manager technology supplier management at capital one,,,,manager,technology supplier management at capital one,"(data management, 80, great)",80.0,,,"(chief technology officer, 55, common)",55.0,,,"(information management, 86, great)",86.0,,
+363,"manager, project portfolio mgmt and dg coordinator/lead steward",1,manager project portfolio management and data governance coordinator lead steward,data governance,,,manager project lead,portfolio management data governance coordinator steward,"(data steward, 100, great)",100.0,great,data steward,"(master data governance, 56, great)",56.0,,,"(data governance, 90, great)",90.0,great,data governance
+364,"manager, information services",1,manager information services,,,,manager,information services,"(data services, 76, great)",76.0,,,"(data services, 67, great)",67.0,,,"(data services, 86, great)",86.0,,
+365,"manager, information management strategy & planning at adobe",1,manager information management strategy planning at adobe,information management,,,manager,information management strategy planning at adobe,"(information management, 100, great)",100.0,great,information management,"(information management, 62, great)",62.0,,,"(information management, 90, great)",90.0,great,information management
+366,"manager, global master data management",1,manager global master data management,data management,,,manager global,master data management,"(master data, 100, great)",100.0,great,master data,"(master data manager, 88, common)",88.0,,,"(data management, 95, great)",95.0,great,data management
+367,"manager, ent. tech. services",1,manager ent tech services,,,,manager,ent tech services,"(data services, 76, great)",76.0,,,"(data services, 67, great)",67.0,,,"(data services, 72, great)",72.0,,
+368,"manager, data management",1,manager data management,data management,,,manager,,,,,,,,,,,,,
+369,"manager, data governance program office",1,manager data governance program office,data governance,,,manager program,,,,,,,,,,,,,
+370,"manager, data analytics",1,manager data analytics,data analytics,,,manager,,,,,,,,,,,,,
+371,"manager, business process review",1,manager business process review,,,,manager,business process review,"(business analyst, 67, great)",67.0,,,"(business systems, 62, common)",62.0,,,"(business analyst, 64, great)",64.0,,
+372,"manager, business intelligence & data warehousing",1,manager business intelligence data warehousing,business intelligence,,,manager,business intelligence data warehousing,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 71, great)",71.0,,,"(business intelligence, 90, great)",90.0,great,business intelligence
+373,"manager, analytics coe",1,manager analytics coe,analytics,great,95.0,manager,,"(analytics, 100, great)",100.0,great,analytics,"(analytics, 82, great)",82.0,,,"(analytics, 95, great)",95.0,great,analytics
+374,"manager, analytics",1,manager analytics,analytics,,,manager,,,,,,,,,,,,,
+375,"manager -transportation, distribution, and database reporting",1,manager transportation distribution and database reporting,,,,manager,transportation distribution database reporting,"(database analyst, 67, common)",67.0,,,"(information architect, 45, great)",45.0,,,"(master data, 55, great)",55.0,,
+376,"manager of data management, enterprise data governance",1,manager of data management enterprise data governance,data management,,,manager,data management enterprise data governance,"(data management, 100, great)",100.0,great,data management,"(enterprise data governance, 76, common)",76.0,,,"(data management, 90, great)",90.0,great,data management
+377,manager of data governance,1,manager of data governance,data governance,,,manager,,,,,,,,,,,,,
+378,manager of data architecture,1,manager of data architecture,data architecture,,,manager,,,,,,,,,,,,,
+379,manager it architecture,1,manager it architecture,,,,manager,it architecture,"(data architecture, 89, great)",89.0,,,"(data architecture, 88, great)",88.0,,,"(data architecture, 88, great)",88.0,,
+380,manager is data governance process,1,manager is data governance process,data governance,,,manager,is data governance process,"(data governance, 100, great)",100.0,great,data governance,"(master data governance, 75, great)",75.0,,,"(data governance, 90, great)",90.0,great,data governance
+381,manager enterprise data governance program,1,manager enterprise data governance program,enterprise data governance,,,manager program,,,,,,,,,,,,,
+382,manager e&p data and solutions,1,manager data and solutions,,,,manager,data solutions,"(business solutions, 78, common)",78.0,,,"(solutions architect, 73, common)",73.0,,,"(master data governance, 86, great)",86.0,,
+383,manager cris support,1,manager cris support,,,,manager,cris support,"(enterprise solutions, 44, common)",44.0,,,"(enterprise solutions, 44, common)",44.0,,,"(chief operating officer, 45, great)",45.0,,
+384,manager corporate solutions data governance americas region,1,manager corporate solutions data governance americas region,data governance,,,manager,corporate solutions data governance americas region,"(data governance, 100, great)",100.0,great,data governance,"(master data governance, 49, great)",49.0,,,"(data governance, 90, great)",90.0,great,data governance
+385,manager business operations - no longer there,1,manager business operations no longer there,,,,manager,business operations no longer there,"(operations analyst, 71, common)",71.0,,,"(business solutions, 57, common)",57.0,,,"(business intelligence, 86, great)",86.0,,
+386,"manager - vsource, vzw ps & corporate & scv",1,manager vsource vzw ps corporate scv,,,,manager,vsource vzw ps corporate scv,"(enterprise data governance, 37, common)",37.0,,,"(enterprise data governance, 37, common)",37.0,,,"(chief operating officer, 39, great)",39.0,,
+387,manager - tech,1,manager tech,ignore,,,manager,tech,"(architect, 46, common)",46.0,,,"(architect, 46, common)",46.0,,,"(information architect, 68, great)",68.0,,
+388,manager - global customer data,1,manager global customer data,,,,manager global,customer data,"(master data, 75, great)",75.0,,,"(data architecture, 60, great)",60.0,,,"(master data governance, 86, great)",86.0,,
+389,manager - change management,1,manager change management,,,,manager,change management,"(data management, 80, great)",80.0,,,"(data management, 75, great)",75.0,,,"(data management, 76, great)",76.0,,
+390,management consultant,1,management consultant,ignore,,,consultant,management,"(information management, 100, great)",100.0,great,information management,"(data management, 80, great)",80.0,,,"(information management, 90, great)",90.0,great,information management
+391,machine learning engineer,1,machine learning engineer,,,,,,,,,,,,,,,,,
+392,log,1,log,,,,,,,,,,,,,,,,,
+393,lead solutions architect quantitative sciences it,1,lead solutions architect quantitative sciences it,,,,lead,solutions architect quantitative sciences it,"(solutions architect, 100, common)",100.0,common,solutions architect,"(solutions architect, 60, common)",60.0,,,"(information architect, 86, great)",86.0,,
+394,lead engineer,1,lead engineer,ignore,,,lead,engineer,"(software engineer, 100, common)",100.0,common,software engineer,"(data engineering, 67, common)",67.0,,,"(master data governance, 45, great)",45.0,,
+395,lead data analyst,1,lead data analyst,data analyst,,,lead,,,,,,,,,,,,,
+396,lead contracts manager,1,lead contracts manager,ignore,,,lead manager,contracts,"(soa architect, 45, common)",45.0,,,"(soa architect, 45, common)",45.0,,,"(analytics, 44, great)",44.0,,
+397,lead associate - financial systems manager,1,lead associate financial systems manager,financial systems,,,lead associate manager,,,,,,,,,,,,,
+398,itm,1,itm,,,,,,,,,,,,,,,,,
+399,it supervisory specialist,1,it supervisory specialist,,,,specialist,it supervisory,"(data services, 59, great)",59.0,,,"(data services, 59, great)",59.0,,,"(data services, 59, great)",59.0,,
+400,it sr mngr,1,it senior mngr,,,,senior,it mngr,"(data manager, 63, great)",63.0,,,"(data manager, 63, great)",63.0,,,"(data manager, 63, great)",63.0,,
+401,it specialist / program analyst,1,it specialist program analyst,,,,specialist program,it analyst,"(business analyst, 82, great)",82.0,,,"(data analyst, 82, common)",82.0,,,"(business analyst, 86, great)",86.0,,
+402,it sourcing / procurement,1,it sourcing procurement,,,,,,,,,,,,,,,,,
+403,it purchasing - procurement and supply,1,it purchasing procurement and supply,,,,,,,,,,,,,,,,,
+404,it project manager analytics,1,it project manager analytics,analytics,great,95.0,project manager,,"(analytics, 100, great)",100.0,great,analytics,"(analytics, 86, great)",86.0,,,"(analytics, 95, great)",95.0,great,analytics
+405,it process consultant,1,it process consultant,,,,consultant,it process,"(data services, 52, great)",52.0,,,"(data services, 52, great)",52.0,,,"(data services, 52, great)",52.0,,
+406,it officer,1,it officer,,,,,,,,,,,,,,,,,
+407,it mgr,1,it manager,ignore,,,manager,it,"(architect, 36, common)",36.0,,,"(architect, 36, common)",36.0,,,"(data architect, 90, great)",90.0,great,data architect
+408,it manager - enterprise data architecture and data quality,1,it manager enterprise data architecture and data quality,data architecture,,,manager,it enterprise data architecture data quality,"(data architecture, 100, great)",100.0,great,data architecture,"(data architecture, 56, great)",56.0,,,"(data architecture, 90, great)",90.0,great,data architecture
+409,it finance,1,it finance,,,,,,,,,,,,,,,,,
+410,"it director, mdm",1,it director master data manager,master data,great,95.0,director manager,,"(master data, 100, great)",100.0,great,master data,"(master data, 88, great)",88.0,,,"(master data, 95, great)",95.0,great,master data
+411,it director and business partner - gsp americas,1,it director and business partner gsp americas,,,,director,it business partner gsp americas,"(business analyst, 67, great)",67.0,,,"(business analyst, 50, great)",50.0,,,"(business intelligence, 86, great)",86.0,,
+412,it business partner / transformative technology leader,1,it business partner transformative technology leader,,,,leader,it business partner transformative technology,"(business analyst, 67, great)",67.0,,,"(business intelligence, 52, great)",52.0,,,"(business intelligence, 86, great)",86.0,,
+413,it asset manager,1,it asset manager,,,,manager,it asset,"(data analyst, 50, common)",50.0,,,"(data analyst, 50, common)",50.0,,,"(business intelligence, 54, great)",54.0,,
+414,it & portfolio manager,1,it portfolio manager,,,,manager,it portfolio,"(information architect, 48, great)",48.0,,,"(information architect, 48, great)",48.0,,,"(information architect, 50, great)",50.0,,
+415,it - lead data architect for harvard data warehouse,1,it lead data architect for harvard data warehouse,data warehouse,,,lead,it data architect harvard data warehouse,"(data warehouse, 100, great)",100.0,great,data warehouse,"(data warehouse, 52, great)",52.0,,,"(data warehouse, 90, great)",90.0,great,data warehouse
+416,is procurement,1,is procurement,,,,,,,,,,,,,,,,,
+417,is manager data governance,1,is manager data governance,data governance,great,100.0,manager,,"(data governance, 100, great)",100.0,great,data governance,"(data governance, 91, great)",91.0,great,data governance,"(data governance, 95, great)",95.0,great,data governance
+418,is governance contact - data steward lead,1,is governance contact data steward lead,data steward,,,lead,is governance contact data steward,"(data steward, 100, great)",100.0,great,data steward,"(master data governance, 71, great)",71.0,,,"(data steward, 90, great)",90.0,great,data steward
+419,investment bank cdo,1,investment bank chief data officer,,,,,,,,,,,,,,,,,
+420,ing investment management,1,ing investment management,,,,,,,,,,,,,,,,,
+421,information technology specialist,1,information technology specialist,information technology,,,specialist,,,,,,,,,,,,,
+422,"information technology | bcbs, kgro 2",1,information technology bcbs kgro,,,,,,,,,,,,,,,,,
+423,information technology,1,information technology,information technology,common,100.0,,,,,,,,,,,,,,
+424,information management strategist,1,information management strategist,information management,,,strategist,,,,,,,,,,,,,
+425,information management manager,1,information management manager,information management,,,manager,,,,,,,,,,,,,
+426,information management associate,1,information management associate,information management,,,associate,,,,,,,,,,,,,
+427,information lifecycle management lead,1,information lifecycle management lead,information management,great,95.0,lead,,"(information management, 100, great)",100.0,great,information management,"(information management, 81, great)",81.0,,,"(information management, 95, great)",95.0,great,information management
+428,information architect officer,1,information architect officer,,,,,,,,,,,,,,,,,
+429,indirect purchasing,1,indirect purchasing,,,,,,,,,,,,,,,,,
+430,immigration law analyst,1,immigration law analyst,,,,,,,,,,,,,,,,,
+431,ics solution architect,1,ics solution architect,,,,,,,,,,,,,,,,,
+432,ib head of data governance,1,investment banking head of data governance,data governance,,,head,investment banking data governance,"(data governance, 100, great)",100.0,great,data governance,"(master data governance, 68, great)",68.0,,,"(data governance, 90, great)",90.0,great,data governance
+433,ib finance ref data governance,1,investment banking finance ref data governance,,,,,,,,,,,,,,,,,
+434,hotitem dg consultant,1,hotitem data governance consultant,data governance,great,90.0,consultant,,"(data governance, 100, great)",100.0,great,data governance,"(master data governance, 80, great)",80.0,,,"(data governance, 90, great)",90.0,great,data governance
+435,"health care operations , decision support,  process improvement",1,health care operations decision support process improvement,,,,,,,,,,,,,,,,,
+436,"head of worldwide medical contact, content and insight",1,head of worldwide medical contact content and insight,,,,head,worldwide medical contact content insight,"(chief investment officer, 40, common)",40.0,,,"(chief investment officer, 40, common)",40.0,,,"(data architect, 45, great)",45.0,,
+437,"head of strategy and architecture, standards",1,head of strategy and architecture standards,,,,head,strategy architecture standards,"(data architecture, 83, great)",83.0,,,"(data architecture, 71, great)",71.0,,,"(data standards, 86, great)",86.0,,
+438,head of solution architecture mi-systems,1,head of solution architecture mi systems,,,,head,solution architecture mi systems,"(data architecture, 83, great)",83.0,,,"(solutions architect, 75, common)",75.0,,,"(data architecture, 86, great)",86.0,,
+439,head of pmo,1,head of project management office,ignore,,,head project,management,"(information management, 100, great)",100.0,great,information management,"(data management, 80, great)",80.0,,,"(information management, 90, great)",90.0,great,information management
+440,head of it integration services,1,head of it integration services,,,,head,it integration services,"(data services, 76, great)",76.0,,,"(data services, 61, great)",61.0,,,"(data services, 86, great)",86.0,,
+441,head of it infrastructure,1,head of it infrastructure,,,,head,it infrastructure,"(data architecture, 53, great)",53.0,,,"(data architecture, 53, great)",53.0,,,"(information architect, 53, great)",53.0,,
+442,head of information and data governance for commercial banking risk,1,head of information and data governance for commercial banking risk,data governance,,,head,information data governance commercial banking risk,"(data governance, 100, great)",100.0,great,data governance,"(master data governance, 55, great)",55.0,,,"(data governance, 90, great)",90.0,great,data governance
+443,head of hr data governance and bi,1,head of hr data governance and business intelligence,data governance,,,head,hr data governance business intelligence,"(data governance, 100, great)",100.0,great,data governance,"(business intelligence, 69, great)",69.0,,,"(data governance, 90, great)",90.0,great,data governance
+444,head of hr data governance,1,head of hr data governance,data governance,great,100.0,head,,"(data governance, 100, great)",100.0,great,data governance,"(data governance, 91, great)",91.0,great,data governance,"(data governance, 95, great)",95.0,great,data governance
+445,head of governance | data solutions,1,head of governance data solutions,,,,head,governance data solutions,"(data governance, 100, great)",100.0,great,data governance,"(master data governance, 77, great)",77.0,,,"(data services, 86, great)",86.0,,
+446,head of forecasts and network intelligence,1,head of forecasts and network intelligence,,,,head,forecasts network intelligence,"(business intelligence, 73, great)",73.0,,,"(business intelligence, 63, great)",63.0,,,"(business intelligence, 69, great)",69.0,,
+447,head of finance design,1,head of finance design,,,,head,finance design,"(business intelligence, 51, great)",51.0,,,"(business intelligence, 51, great)",51.0,,,"(data governance, 46, great)",46.0,,
+448,"head of enterprise transformation - regulatory compliance, risk management, accounting and finance",1,head of enterprise transformation regulatory compliance risk management accounting and finance,,,,head,enterprise transformation regulatory compliance risk management accounting finance,"(data management, 80, great)",80.0,,,"(enterprise information management, 45, common)",45.0,,,"(information management, 86, great)",86.0,,
+449,head of enterprise architecture,1,head of enterprise architecture,,,,head,enterprise architecture,"(data architecture, 83, great)",83.0,,,"(data architecture, 70, great)",70.0,,,"(data architecture, 79, great)",79.0,,
+450,head of design & engineering firmwide practices (uk),1,head of design engineering firmwide practices uk,,,,head firmwide,design engineering practices uk,"(data engineering, 81, common)",81.0,,,"(data engineering, 55, common)",55.0,,,"(analytics, 50, great)",50.0,,
+451,"head of data strategy and analytics, financial services",1,head of data strategy and analytics financial services,analytics,,,head,data strategy analytics financial services,"(data services, 100, great)",100.0,great,data services,"(data analytics, 50, common)",50.0,,,"(analytics, 90, great)",90.0,great,analytics
+452,"head of data services, it â€“ business intelligence",1,head of data services it business intelligence,data services,,,head,data services it business intelligence,"(data services, 100, great)",100.0,great,data services,"(business intelligence, 71, great)",71.0,,,"(data services, 90, great)",90.0,great,data services
+453,head of data and business insight,1,head of data and business insight,,,,head,data business insight,"(business analyst, 70, great)",70.0,,,"(business solutions, 67, common)",67.0,,,"(data services, 86, great)",86.0,,
+454,head of data,1,head of data,ignore,,,head,data,"(master data governance, 100, great)",100.0,great,master data governance,"(master data, 53, great)",53.0,,,"(master data governance, 90, great)",90.0,great,master data governance
+455,head of business intelligence & analytics,1,head of business intelligence analytics,business intelligence,great,95.0,head,,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 81, great)",81.0,,,"(business intelligence, 95, great)",95.0,great,business intelligence
+456,head of business data architecture,1,head of business data architecture,data architecture,,,head,business data architecture,"(data architecture, 100, great)",100.0,great,data architecture,"(data architecture, 79, great)",79.0,,,"(data architecture, 90, great)",90.0,great,data architecture
+457,head of bi systems support unit,1,head of business intelligence systems support unit,business intelligence,,,head,business intelligence systems support unit,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 67, great)",67.0,,,"(business intelligence, 90, great)",90.0,great,business intelligence
+458,head of architecture and tools,1,head of architecture and tools,,,,head,architecture tools,"(data architecture, 83, great)",83.0,,,"(data architecture, 80, great)",80.0,,,"(data architecture, 79, great)",79.0,,
+459,head data management,1,head data management,data management,,,head,,,,,,,,,,,,,
+460,"head and architect, enterprise architecture",1,head and architect enterprise architecture,,,,head,architect enterprise architecture,"(architect, 100, common)",100.0,common,architect,"(data architecture, 56, great)",56.0,,,"(information architect, 86, great)",86.0,,
+461,hd of data governance/management,1,hd of data governance management,,,,,,,,,,,,,,,,,
+462,"group technology, pmda",1,group technology pmda,,,,,,,,,,,,,,,,,
+463,group procurement,1,group procurement,,,,,,,,,,,,,,,,,
+464,gm,1,gm,,,,,,,,,,,,,,,,,
+465,global sourcing specialist,1,global sourcing specialist,,,,global specialist,,,,,,,,,,,,,
+466,global sourcing,1,global sourcing,,,,global,,,,,,,,,,,,,
+467,global leader - data innovation,1,global leader data innovation,,,,global leader,data innovation,"(data analytics, 62, common)",62.0,,,"(information architect, 61, great)",61.0,,,"(data governance, 60, great)",60.0,,
+468,global lead - data architecture,1,global lead data architecture,data architecture,,,global lead,,,,,,,,,,,,,
+469,global it procurement,1,global it procurement,,,,global,it procurement,"(data management, 48, great)",48.0,,,"(data management, 48, great)",48.0,,,"(data management, 48, great)",48.0,,
+470,global information architect,1,global information architect,information architect,,,global,,,,,,,,,,,,,
+471,global information & business solutions,1,global information business solutions,,,,global,information business solutions,"(business solutions, 100, common)",100.0,common,business solutions,"(business solutions, 75, common)",75.0,,,"(business analyst, 86, great)",86.0,,
+472,global head of hr technology,1,global head of hr technology,,,,global head,hr technology,"(chief technology officer, 87, common)",87.0,,,"(chief technology officer, 70, common)",70.0,,,"(information architect, 39, great)",39.0,,
+473,global head of enterprise data governance,1,global head of enterprise data governance,enterprise data governance,,,global head,,,,,,,,,,,,,
+474,global finance information architect,1,global finance information architect,information architect,great,95.0,global,,"(information architect, 100, great)",100.0,great,information architect,"(information architect, 84, great)",84.0,,,"(information architect, 95, great)",95.0,great,information architect
+475,global data officer,1,global data officer,chief data officer,great,90.0,global,,"(chief data officer, 100, great)",100.0,great,chief data officer,"(chief data officer, 80, great)",80.0,,,"(chief data officer, 90, great)",90.0,great,chief data officer
+476,global data governance lead,1,global data governance lead,data governance,,,global lead,,,,,,,,,,,,,
+477,global commodity manager â€“ it & telecom,1,global commodity manager it telecom,,,,global manager,commodity it telecom,"(information technology, 43, common)",43.0,,,"(information technology, 43, common)",43.0,,,"(data architect, 41, great)",41.0,,
+478,global account executive ing insurance & inv.man.,1,global account executive ing insurance inv man,,,,global executive,account ing insurance inv man,"(master data governance, 47, great)",47.0,,,"(master data governance, 47, great)",47.0,,,"(data governance, 48, great)",48.0,,
+479,geospatial analyst,1,geospatial analyst,,,,,,,,,,,,,,,,,
+480,fvp - technology group mgr,1,fvp technology group manager,,,,manager,fvp technology,"(chief technology officer, 83, common)",83.0,,,"(information technology, 67, common)",67.0,,,"(chief operating officer, 32, great)",32.0,,
+481,foundational data manager,1,foundational data manager,,,,manager,foundational data,"(data analyst, 62, common)",62.0,,,"(data governance, 56, great)",56.0,,,"(master data, 86, great)",86.0,,
+482,former managing director,1,former managing director,ignore,,,managing director,former,"(developer, 40, common)",40.0,,,"(developer, 40, common)",40.0,,,"(chief operating officer, 60, great)",60.0,,
+483,firmwide chief data officer,1,firmwide chief data officer,chief data officer,,,firmwide,,,,,,,,,,,,,
+484,financial systems director,1,financial systems director,financial systems,,,director,,,,,,,,,,,,,
+485,finance director,1,finance director,ignore,,,director,finance,"(financial systems, 58, common)",58.0,,,"(financial systems, 58, common)",58.0,,,"(master data governance, 64, great)",64.0,,
+486,external contractor | on behalf of amos business transformation,1,external contractor on behalf of amos business transformation,,,,,,,,,,,,,,,,,
+487,"executive director, service delivery",1,executive director service delivery,,,,executive director,service delivery,"(data services, 62, great)",62.0,,,"(data services, 62, great)",62.0,,,"(data services, 59, great)",59.0,,
+488,"executive director, operational analytics",1,executive director operational analytics,analytics,great,90.0,executive director,,"(analytics, 100, great)",100.0,great,analytics,"(operations analyst, 82, common)",82.0,,,"(analytics, 90, great)",90.0,great,analytics
+489,"executive director, investment managent",1,executive director investment managent,,,,executive director,investment managent,"(chief investment officer, 69, common)",69.0,,,"(information management, 63, great)",63.0,,,"(information management, 63, great)",63.0,,
+490,"executive director, enterprise information management",1,executive director enterprise information management,enterprise information management,,,executive director,,,,,,,,,,,,,
+491,"executive director, cst data strategy program director; oversight & controls portfolio manager",1,executive director cst data strategy program director oversight controls portfolio manager,,,,executive director program director manager,cst data strategy oversight controls portfolio,"(master data, 53, great)",53.0,,,"(regulatory reporting, 39, common)",39.0,,,"(master data governance, 86, great)",86.0,,
+492,"executive director, chief data officer",1,executive director chief data officer,chief data officer,,,executive director,,,,,,,,,,,,,
+493,"executive director, advisory and corporate technology",1,executive director advisory and corporate technology,,,,executive director,advisory corporate technology,"(information technology, 63, common)",63.0,,,"(information technology, 63, common)",63.0,,,"(chief operating officer, 40, great)",40.0,,
+494,executive director	 corporate & investment bank operations,1,executive director corporate investment bank operations,,,,executive director,corporate investment bank operations,"(operations analyst, 71, common)",71.0,,,"(operations analyst, 59, common)",59.0,,,"(data management, 54, great)",54.0,,
+495,executive director technology & data,1,executive director technology data,,,,executive director,technology data,"(chief technology officer, 80, common)",80.0,,,"(information technology, 70, common)",70.0,,,"(master data, 54, great)",54.0,,
+496,executive director human resources,1,executive director human resources,,,,executive director,human resources,"(data services, 50, great)",50.0,,,"(data services, 50, great)",50.0,,,"(data services, 50, great)",50.0,,
+497,executive director and head of r&d operations it,1,executive director and head of operations it,,,,executive director head,operations it,"(operations analyst, 87, common)",87.0,,,"(operations analyst, 77, common)",77.0,,,"(chief operating officer, 62, great)",62.0,,
+498,executive director â–º finance & risk technology â™¦ cloud/mobile solutions â™¦ finance transformation,1,executive director finance risk technology cloud mobile solutions finance transformation,,,,executive director,finance risk technology cloud mobile solutions finance transformation,"(business solutions, 67, common)",67.0,,,"(information technology, 44, common)",44.0,,,"(chief operating officer, 47, great)",47.0,,
+499,executive director - sr program manager and pmo lead,1,executive director senior program manager and project management office lead,ignore,,,executive director senior program manager project lead,management,"(information management, 100, great)",100.0,great,information management,"(data management, 80, great)",80.0,,,"(information management, 90, great)",90.0,great,information management
+500,executive director - analytics,1,executive director analytics,analytics,,,executive director,,,,,,,,,,,,,
+501,executive director - alert,1,executive director alert,ignore,,,executive director,alert,"(analytics, 43, great)",43.0,,,"(analytics, 43, great)",43.0,,,"(data manager, 60, great)",60.0,,
+502,executive assistant to ocio/iseo,1,executive assistant to ocio iseo,,,,executive assistant,to ocio iseo,"(chief technology officer, 44, common)",44.0,,,"(chief technology officer, 44, common)",44.0,,,"(chief data officer, 38, great)",38.0,,
+503,eu field medical operations manager,1,eu field medical operations manager,,,,manager,eu field medical operations,"(operations analyst, 71, common)",71.0,,,"(operations analyst, 58, common)",58.0,,,"(chief operating officer, 53, great)",53.0,,
+504,etl developer â€“ enterprise data services,1,etl developer enterprise data services,,,,,,,,,,,,,,,,,
+505,etl developer,1,etl developer,,,,,,,,,,,,,,,,,
+506,erp/process transformation,1,erp process transformation,,,,,,,,,,,,,,,,,
+507,enterprise services team,1,enterprise services team,,,,,,,,,,,,,,,,,
+508,enterprise program manager,1,enterprise program manager,ignore,,,program manager,enterprise,"(enterprise solutions, 100, common)",100.0,common,enterprise solutions,"(enterprise solutions, 67, common)",67.0,,,"(business intelligence, 45, great)",45.0,,
+509,"enterprise information management operation lead, avp",1,enterprise information management operation lead assistant vice president,information management,great,90.0,lead assistant vice president,,"(information management, 100, great)",100.0,great,information management,"(enterprise information management, 87, common)",87.0,,,"(information management, 90, great)",90.0,great,information management
+510,enterprise information architect,1,enterprise information architect,,,,,,,,,,,,,,,,,
+511,enterprise data office,1,enterprise data office,,,,,,,,,,,,,,,,,
+512,enterprise data governance senior manager,1,enterprise data governance senior manager,enterprise data governance,,,senior manager,,,,,,,,,,,,,
+513,enterprise data governance officer,1,enterprise data governance officer,,,,,,,,,,,,,,,,,
+514,enterprise data | industry data standards,1,enterprise data industry data standards,,,,,,,,,,,,,,,,,
+515,enterprise data  architect,1,enterprise data architect,,,,,,,,,,,,,,,,,
+516,enterprise architect iii,1,enterprise architect iii,,,,,,,,,,,,,,,,,
+517,enterprise architecht,1,enterprise architecht,,,,,,,,,,,,,,,,,
+518,"eim, strategy &amp; architecture lead",1,enterprise information management strategy amp architecture lead,information management,,,lead,enterprise information management strategy amp architecture,"(information management, 100, great)",100.0,great,information management,"(enterprise information management, 72, common)",72.0,,,"(information management, 90, great)",90.0,great,information management
+519,eim manager,1,enterprise information management manager,enterprise information management,,,manager,,,,,,,,,,,,,
+520,edm director,1,edm director,ignore,,,director,edm,"(master data, 29, great)",29.0,,,"(master data, 29, great)",29.0,,,"(master data governance, 57, great)",57.0,,
+521,dwh responsible,1,dwh responsible,,,,,,,,,,,,,,,,,
+522,dw manager,1,data warehouse manager,data warehouse,,,manager,,,,,,,,,,,,,
+523,drg / pã´le qualitã© de donnã©es risques,1,drg le qualit de donn es risques,,,,,,,,,,,,,,,,,
+524,domain architect,1,domain architect,,,,,,,,,,,,,,,,,
+525,director. solution partnerships,1,director solution partnerships,,,,director,solution partnerships,"(enterprise solutions, 68, common)",68.0,,,"(enterprise solutions, 68, common)",68.0,,,"(information architect, 48, great)",48.0,,
+526,"director, worldwide medical reporting and insights lead",1,director worldwide medical reporting and insights lead,,,,director lead,worldwide medical reporting insights,"(regulatory reporting, 62, common)",62.0,,,"(regulatory reporting, 43, common)",43.0,,,"(chief operating officer, 41, great)",41.0,,
+527,"director, tech integrations it",1,director tech integrations it,,,,director,tech integrations it,"(information technology, 62, common)",62.0,,,"(information technology, 62, common)",62.0,,,"(information architect, 54, great)",54.0,,
+528,"director, strategic data services",1,director strategic data services,data services,,,director,strategic data services,"(data services, 100, great)",100.0,great,data services,"(data services, 72, great)",72.0,,,"(data services, 90, great)",90.0,great,data services
+529,"director, sales data & analytics",1,director sales data analytics,analytics,great,90.0,director,,"(analytics, 100, great)",100.0,great,analytics,"(data analytics, 82, common)",82.0,,,"(analytics, 90, great)",90.0,great,analytics
+530,"director, reference data service",1,director reference data service,,,,director,reference data service,"(data services, 69, great)",69.0,,,"(data services, 69, great)",69.0,,,"(data services, 86, great)",86.0,,
+531,"director, project management, strategic investments products and data",1,director project management strategic investments products and data,,,,director project,management strategic investments products data,"(data management, 100, great)",100.0,great,data management,"(assessor quality management, 52, common)",52.0,,,"(master data governance, 86, great)",86.0,,
+532,"director, policy, architecture and governance",1,director policy architecture and governance,,,,director,policy architecture governance,"(data architecture, 83, great)",83.0,,,"(enterprise data governance, 61, common)",61.0,,,"(data governance, 86, great)",86.0,,
+533,"director, it data services / integrations",1,director it data services integrations,data services,,,director,it data services integrations,"(data services, 100, great)",100.0,great,data services,"(data services, 62, great)",62.0,,,"(data services, 90, great)",90.0,great,data services
+534,"director, investments it - strategic solutions",1,director investments it strategic solutions,,,,director,investments it strategic solutions,"(business solutions, 67, common)",67.0,,,"(business solutions, 58, common)",58.0,,,"(data services, 49, great)",49.0,,
+535,"director, information governance",1,director information governance,,,,director,information governance,"(data governance, 80, great)",80.0,,,"(information architect, 70, great)",70.0,,,"(data governance, 76, great)",76.0,,
+536,"director, information and integration architecture",1,director information and integration architecture,,,,director,information integration architecture,"(data architecture, 83, great)",83.0,,,"(information architect, 74, great)",74.0,,,"(information management, 86, great)",86.0,,
+537,"director, informatics (soon to be cdo)",1,director informatics soon to be chief data officer,chief data officer,,,director,informatics soon to be chief data officer,"(chief data officer, 100, great)",100.0,great,chief data officer,"(chief information officer, 70, common)",70.0,,,"(chief data officer, 90, great)",90.0,great,chief data officer
+538,"director, hr data governance & business intelligence",1,director hr data governance business intelligence,data governance,,,director,hr data governance business intelligence,"(data governance, 100, great)",100.0,great,data governance,"(business intelligence, 69, great)",69.0,,,"(data governance, 90, great)",90.0,great,data governance
+539,"director, gds program",1,director gds program,ignore,,,director program,gds,"(master data, 29, great)",29.0,,,"(master data, 29, great)",29.0,,,"(data standards, 60, great)",60.0,,
+540,"director, financial system solutions",1,director financial system solutions,,,,director,financial system solutions,"(financial systems, 74, common)",74.0,,,"(financial systems, 74, common)",74.0,,,"(analytics, 50, great)",50.0,,
+541,"director, enterprise information management",1,director enterprise information management,enterprise information management,,,director,,,,,,,,,,,,,
+542,"director, enterprise information governance",1,director enterprise information governance,,,,director,enterprise information governance,"(enterprise data governance, 89, common)",89.0,,,"(enterprise data governance, 71, common)",71.0,,,"(master data governance, 86, great)",86.0,,
+543,"director, enterprise data stewardship",1,director enterprise data stewardship,data steward,,,director,enterprise data stewardship,"(enterprise data governance, 73, common)",73.0,,,"(enterprise data governance, 68, common)",68.0,,,"(data steward, 90, great)",90.0,great,data steward
+544,"director, enterprise data management",1,director enterprise data management,data management,,,director,enterprise data management,"(data management, 100, great)",100.0,great,data management,"(data management, 73, great)",73.0,,,"(data management, 90, great)",90.0,great,data management
+545,"director, electronic algorithms & kinetic modeling",1,director electronic algorithms kinetic modeling,,,,director,electronic algorithms kinetic modeling,"(information architect, 47, great)",47.0,,,"(information architect, 47, great)",47.0,,,"(chief operating officer, 43, great)",43.0,,
+546,"director, data warehouse development",1,director data warehouse development,data warehouse,,,director,data warehouse development,"(data warehouse, 100, great)",100.0,great,data warehouse,"(data warehouse, 70, great)",70.0,,,"(data warehouse, 90, great)",90.0,great,data warehouse
+547,"director, data scientist, r&d team",1,director data scientist team,,,,director,data scientist team,"(data steward, 58, great)",58.0,,,"(data steward, 58, great)",58.0,,,"(master data, 86, great)",86.0,,
+548,"director, data management",1,director data management,data management,,,director,,,,,,,,,,,,,
+549,"director, data governance",1,director data governance,data governance,,,director,,,,,,,,,,,,,
+550,"director, data engineering",1,director data engineering,data engineering,,,director,,,,,,,,,,,,,
+551,"director, customer data management",1,director customer data management,data management,,,director,customer data management,"(data management, 100, great)",100.0,great,data management,"(data management, 77, great)",77.0,,,"(data management, 90, great)",90.0,great,data management
+552,"director, commercial contracts at inc research",1,director commercial contracts at inc research,,,,director,commercial contracts at inc research,"(master data governance, 48, great)",48.0,,,"(master data governance, 48, great)",48.0,,,"(data services, 49, great)",49.0,,
+553,"director, clinical innovation - co-chair of dg cousel",1,director clinical innovation co chair of data governance cousel,data governance,,,director,clinical innovation co chair data governance cousel,"(data governance, 100, great)",100.0,great,data governance,"(master data governance, 49, great)",49.0,,,"(data governance, 90, great)",90.0,great,data governance
+554,"director, business intelligence",1,director business intelligence,business intelligence,,,director,,,,,,,,,,,,,
+555,"director, bi and data analytics",1,director business intelligence and data analytics,business intelligence,,,director,business intelligence data analytics,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 74, great)",74.0,,,"(business intelligence, 90, great)",90.0,great,business intelligence
+556,director	 edw,1,director edw,ignore,,,director,edw,"(data steward, 27, great)",27.0,,,"(data steward, 27, great)",27.0,,,"(data steward, 60, great)",60.0,,
+557,director	 data management,1,director data management,data management,,,director,,,,,,,,,,,,,
+558,director	 data architecture,1,director data architecture,data architecture,,,director,,,,,,,,,,,,,
+559,director vendor relations,1,director vendor relations,,,,director,vendor relations,"(regulatory reporting, 56, common)",56.0,,,"(regulatory reporting, 56, common)",56.0,,,"(information management, 45, great)",45.0,,
+560,director reporting transformation,1,director reporting transformation,,,,director,reporting transformation,"(regulatory reporting, 64, common)",64.0,,,"(information architect, 62, great)",62.0,,,"(information architect, 59, great)",59.0,,
+561,director reporting,1,director reporting,ignore,,,director,reporting,"(regulatory reporting, 100, common)",100.0,common,regulatory reporting,"(regulatory reporting, 62, common)",62.0,,,"(chief operating officer, 60, great)",60.0,,
+562,director operations (ww data strategy & governance),1,director operations ww data strategy governance,,,,director,operations ww data strategy governance,"(data governance, 100, great)",100.0,great,data governance,"(master data governance, 67, great)",67.0,,,"(master data governance, 86, great)",86.0,,
+563,director of marketing research,1,director of marketing research,,,,director,marketing research,"(data steward, 47, great)",47.0,,,"(data steward, 47, great)",47.0,,,"(information architect, 51, great)",51.0,,
+564,director of it corporate technology,1,director of it corporate technology,,,,director,it corporate technology,"(information technology, 71, common)",71.0,,,"(information technology, 71, common)",71.0,,,"(chief operating officer, 41, great)",41.0,,
+565,director of information governance,1,director of information governance,,,,director,information governance,"(data governance, 80, great)",80.0,,,"(information architect, 70, great)",70.0,,,"(data governance, 76, great)",76.0,,
+566,director of information & technology services,1,director of information technology services,,,,director,information technology services,"(information technology, 100, common)",100.0,common,information technology,"(information technology, 83, common)",83.0,,,"(data services, 86, great)",86.0,,
+567,director of enterprise data warehouse,1,director of enterprise data warehouse,data warehouse,,,director,enterprise data warehouse,"(data warehouse, 100, great)",100.0,great,data warehouse,"(data warehouse, 72, great)",72.0,,,"(data warehouse, 90, great)",90.0,great,data warehouse
+568,director of enterprise data governance,1,director of enterprise data governance,enterprise data governance,,,director,,,,,,,,,,,,,
+569,director of data strategy,1,director of data strategy,,,,director,data strategy,"(master data, 67, great)",67.0,,,"(master data, 67, great)",67.0,,,"(master data governance, 86, great)",86.0,,
+570,director of data management (in it),1,director of data management in it,data management,great,95.0,director,,"(data management, 100, great)",100.0,great,data management,"(data management, 83, great)",83.0,,,"(data management, 95, great)",95.0,great,data management
+571,director of data management,1,director of data management,data management,,,director,,,,,,,,,,,,,
+572,director of data analysis,1,director of data analysis,data analysis,,,director,,,,,,,,,,,,,
+573,director of bit administration - procurement,1,director of bit administration procurement,,,,director,bit administration procurement,"(database administrator, 58, common)",58.0,,,"(database administrator, 58, common)",58.0,,,"(information management, 54, great)",54.0,,
+574,director of administrative application development,1,director of administrative application development,application development,,,director administrative,,,,,,,,,,,,,
+575,director him,1,director him,ignore,,,director,him,"(architect, 33, common)",33.0,,,"(architect, 33, common)",33.0,,,"(chief data officer, 60, great)",60.0,,
+576,director fp&a,1,director fp,ignore,,,director,fp,"(developer, 18, common)",18.0,,,"(developer, 18, common)",18.0,,,"(chief data officer, 30, great)",30.0,,
+577,director for strategic develop,1,director for strategic develop,,,,director,strategic develop,"(developer, 62, common)",62.0,,,"(developer, 62, common)",62.0,,,"(master data governance, 41, great)",41.0,,
+578,director finance process change,1,director finance process change,,,,director,finance process change,"(chief compliance officer, 57, common)",57.0,,,"(chief compliance officer, 57, common)",57.0,,,"(chief operating officer, 47, great)",47.0,,
+579,director enterprise master data architecture,1,director enterprise master data architecture,master data,,,director,enterprise master data architecture,"(master data, 100, great)",100.0,great,master data,"(data architecture, 65, great)",65.0,,,"(master data, 90, great)",90.0,great,master data
+580,director enterprise information architect,1,director enterprise information architect,information architect,,,director,enterprise information architect,"(information architect, 100, great)",100.0,great,information architect,"(information architect, 79, great)",79.0,,,"(information architect, 90, great)",90.0,great,information architect
+581,director enterprise data mgmt,1,director enterprise data management,data management,,,director,enterprise data management,"(data management, 100, great)",100.0,great,data management,"(data management, 73, great)",73.0,,,"(data management, 90, great)",90.0,great,data management
+582,director eim,1,director enterprise information management,enterprise information management,,,director,,,,,,,,,,,,,
+583,director data management and governance,1,director data management and governance,data management,,,director,data management governance,"(data management, 100, great)",100.0,great,data management,"(master data governance, 79, great)",79.0,,,"(data management, 90, great)",90.0,great,data management
+584,director data governance office,1,director data governance office,data governance,,,director,,,,,,,,,,,,,
+585,"director data governance and management, global bu",1,director data governance and management global bu,data governance,,,director global,data governance management bu,"(data management, 100, great)",100.0,great,data management,"(master data governance, 75, great)",75.0,,,"(data governance, 90, great)",90.0,great,data governance
+586,director business intelligence,1,director business intelligence,business intelligence,,,director,,,,,,,,,,,,,
+587,director architecture,1,director architecture,ignore,,,director,architecture,"(data architecture, 100, great)",100.0,great,data architecture,"(architect, 86, common)",86.0,,,"(data architecture, 95, great)",95.0,great,data architecture
+588,director and data governance change lead,1,director and data governance change lead,data governance,great,95.0,director lead,,"(data governance, 100, great)",100.0,great,data governance,"(data governance, 81, great)",81.0,,,"(data governance, 95, great)",95.0,great,data governance
+589,director ace,1,director ace,ignore,,,director,ace,"(architect, 50, common)",50.0,,,"(architect, 50, common)",50.0,,,"(master data governance, 60, great)",60.0,,
+590,director - strategic platform,1,director strategic platform,,,,director,strategic platform,"(regulatory reporting, 47, common)",47.0,,,"(regulatory reporting, 47, common)",47.0,,,"(master data, 50, great)",50.0,,
+591,director - software engineering,1,director software engineering,software engineer,common,92.0,director,,"(software engineer, 92, common)",92.0,common,software engineer,"(software engineer, 92, common)",92.0,common,software engineer,"(data management, 46, great)",46.0,,
+592,"director - enterprise services, analytics coe and strategy",1,director enterprise services analytics coe and strategy,analytics,,,director,enterprise services analytics coe strategy,"(analytics, 100, great)",100.0,great,analytics,"(enterprise data governance, 56, common)",56.0,,,"(analytics, 90, great)",90.0,great,analytics
+593,director - enterprise information architecture,1,director enterprise information architecture,information architect,,,director,enterprise information architecture,"(data architecture, 83, great)",83.0,,,"(information architect, 75, great)",75.0,,,"(information architect, 90, great)",90.0,great,information architect
+594,director - eim solution engineering,1,director enterprise information management solution engineering,information management,,,director,enterprise information management solution engineering,"(information management, 100, great)",100.0,great,information management,"(enterprise information management, 76, common)",76.0,,,"(information management, 90, great)",90.0,great,information management
+595,director - data management & business intelligence,1,director data management business intelligence,data management,,,director,data management business intelligence,"(data management, 100, great)",100.0,great,data management,"(business intelligence, 72, great)",72.0,,,"(data management, 90, great)",90.0,great,data management
+596,director â€“ data governance & enterprise content management (ecm),1,director data governance enterprise content management ecm,data governance,,,director,data governance enterprise content management ecm,"(data management, 100, great)",100.0,great,data management,"(enterprise data governance, 69, common)",69.0,,,"(data governance, 90, great)",90.0,great,data governance
+597,director - business management operations,1,director business management operations,,,,director,business management operations,"(data management, 80, great)",80.0,,,"(assessor quality management, 63, common)",63.0,,,"(data management, 86, great)",86.0,,
+598,direction des risques groupe,1,direction des risques groupe,,,,,,,,,,,,,,,,,
+599,direction des opã©rations et des systã¨mes d'information,1,direction des op rations et des syst mes information,,,,,,,,,,,,,,,,,
+600,"direcror, enterprise management",1,direcror enterprise management,,,,,,,,,,,,,,,,,
+601,dir. sci,1,director sci,ignore,,,director,sci,"(architect, 33, common)",33.0,,,"(architect, 33, common)",33.0,,,"(information architect, 60, great)",60.0,,
+602,dir. enterprise information management ( eim),1,director enterprise information management enterprise information management,information management,,,director,enterprise information management enterprise information management,"(information management, 100, great)",100.0,great,information management,"(enterprise information management, 66, common)",66.0,,,"(information management, 90, great)",90.0,great,information management
+603,dir. enterprise data warehouse,1,director enterprise data warehouse,data warehouse,,,director,enterprise data warehouse,"(data warehouse, 100, great)",100.0,great,data warehouse,"(data warehouse, 72, great)",72.0,,,"(data warehouse, 90, great)",90.0,great,data warehouse
+604,dir. data architecture & big data,1,director data architecture big data,data architecture,,,director,data architecture big data,"(data architecture, 100, great)",100.0,great,data architecture,"(data architecture, 79, great)",79.0,,,"(data architecture, 90, great)",90.0,great,data architecture
+605,dir risk strategies,1,director risk strategies,,,,director,risk strategies,"(chief risk officer, 48, common)",48.0,,,"(enterprise solutions, 46, common)",46.0,,,"(data services, 43, great)",43.0,,
+606,dir of it,1,director of it,ignore,,,director,it,"(architect, 36, common)",36.0,,,"(architect, 36, common)",36.0,,,"(data architect, 90, great)",90.0,great,data architect
+607,dir of enterprise data services,1,director of enterprise data services,data services,great,90.0,director,,"(data services, 100, great)",100.0,great,data services,"(enterprise data governance, 80, common)",80.0,,,"(data services, 90, great)",90.0,great,data services
+608,dir of consumer credit risk,1,director of consumer credit risk,,,,director,consumer credit risk,"(chief risk officer, 53, common)",53.0,,,"(chief risk officer, 53, common)",53.0,,,"(master data, 50, great)",50.0,,
+609,dir of administrative systems for ent apps,1,director of administrative systems for ent apps,,,,director administrative,systems ent apps,"(systems analyst, 71, common)",71.0,,,"(systems analyst, 71, common)",71.0,,,"(master data, 44, great)",44.0,,
+610,dir / sr. consultant - enterprise content governance -,1,director senior consultant enterprise content governance,,,,director senior consultant,enterprise content governance,"(enterprise data governance, 89, common)",89.0,,,"(enterprise data governance, 84, common)",84.0,,,"(data governance, 86, great)",86.0,,
+611,diensthoofd bedrijfsarchitectuur,1,diensthoofd bedrijfsarchitectuur,,,,,,,,,,,,,,,,,
+612,dg project manager - coe,1,data governance project manager coe,data governance,great,95.0,project manager,,"(data governance, 100, great)",100.0,great,data governance,"(data governance, 88, great)",88.0,,,"(data governance, 95, great)",95.0,great,data governance
+613,dg manager,1,data governance manager,data governance,,,manager,,,,,,,,,,,,,
+614,dg consultant (contractor),1,data governance consultant contractor,data governance,,,consultant,data governance contractor,"(data governance, 100, great)",100.0,great,data governance,"(data governance, 73, great)",73.0,,,"(data governance, 90, great)",90.0,great,data governance
+615,deputy executive director,1,deputy executive director,ignore,,,executive director,deputy,"(developer, 40, common)",40.0,,,"(developer, 40, common)",40.0,,,"(master data governance, 30, great)",30.0,,
+616,"deputy director, aad fas ops (alumni reporting)",1,deputy director aad fas ops alumni reporting,,,,director,deputy aad fas ops alumni reporting,"(regulatory reporting, 62, common)",62.0,,,"(regulatory reporting, 51, common)",51.0,,,"(data standards, 45, great)",45.0,,
+617,deputy director of bws pmo,1,deputy director of bws project management office,,,,director project,deputy bws management,"(data management, 80, great)",80.0,,,"(data management, 72, great)",72.0,,,"(data management, 76, great)",76.0,,
+618,deputy cio,1,deputy chief information officer,,,,,,,,,,,,,,,,,
+619,denali sourcing services for bny mellon global procurement,1,denali sourcing services for bny mellon global procurement,,,,global,denali services bny mellon procurement,"(data services, 76, great)",76.0,,,"(data services, 47, great)",47.0,,,"(data services, 86, great)",86.0,,
+620,"database specialist, analyst, programmer",1,database specialist analyst programmer,,,,specialist,database analyst programmer,"(database analyst, 100, common)",100.0,common,database analyst,"(database analyst, 74, common)",74.0,,,"(business analyst, 86, great)",86.0,,
+621,data warehousing manager,1,data warehousing manager,,,,manager,data warehousing,"(data warehouse, 87, great)",87.0,,,"(data warehouse, 87, great)",87.0,,,"(data warehouse, 87, great)",87.0,,
+622,data warehouse supervisor,1,data warehouse supervisor,,,,,,,,,,,,,,,,,
+623,data warehouse architect / team leader,1,data warehouse architect team leader,data warehouse,,,leader,data warehouse architect team,"(data warehouse, 100, great)",100.0,great,data warehouse,"(data warehouse, 65, great)",65.0,,,"(data warehouse, 90, great)",90.0,great,data warehouse
+624,data warehouse architect (student data),1,data warehouse architect student data,,,,,,,,,,,,,,,,,
+625,data warehouse architect - project manager,1,data warehouse architect project manager,data warehouse,,,project manager,data warehouse architect,"(data warehouse, 100, great)",100.0,great,data warehouse,"(data warehouse, 74, great)",74.0,,,"(data warehouse, 90, great)",90.0,great,data warehouse
+626,data warehouse architect,1,data warehouse architect,,,,,,,,,,,,,,,,,
+627,data warehouse archect,1,data warehouse archect,,,,,,,,,,,,,,,,,
+628,data stewardship coordinator,1,data stewardship coordinator,,,,,,,,,,,,,,,,,
+629,data steward manager,1,data steward manager,data steward,,,manager,,,,,,,,,,,,,
+630,data steward coordinator,1,data steward coordinator,,,,,,,,,,,,,,,,,
+631,data steward,1,data steward,data steward,great,100.0,,,,,,,,,,,,,,
+632,"data scientist, project manager",1,data scientist project manager,,,,project manager,data scientist,"(data services, 67, great)",67.0,,,"(data services, 67, great)",67.0,,,"(master data governance, 86, great)",86.0,,
+633,data quality service manager,1,data quality service manager,,,,manager,data quality service,"(data services, 73, great)",73.0,,,"(data services, 73, great)",73.0,,,"(data services, 86, great)",86.0,,
+634,data modeling team,1,data modeling team,,,,,,,,,,,,,,,,,
+635,data management product owner,1,data management product owner,,,,,,,,,,,,,,,,,
+636,data management consultant,1,data management consultant,data management,,,consultant,,,,,,,,,,,,,
+637,data management advisor,1,data management advisor,data management,,,advisor,,,,,,,,,,,,,
+638,"data management & architecture  bny mellon, client technology solutions",1,data management architecture bny mellon client technology solutions,,,,,,,,,,,,,,,,,
+639,data integrity and governance analyst iii,1,data integrity and governance analyst iii,,,,,,,,,,,,,,,,,
+640,data integration analyst,1,data integration analyst,,,,,,,,,,,,,,,,,
+641,data governance specialist,1,data governance specialist,data governance,,,specialist,,,,,,,,,,,,,
+642,data governance service line,1,data governance service line,,,,,,,,,,,,,,,,,
+643,data governance program manager,1,data governance program manager,data governance,,,program manager,,,,,,,,,,,,,
+644,data governance professional,1,data governance professional,,,,,,,,,,,,,,,,,
+645,data governance officer,1,data governance officer,,,,,,,,,,,,,,,,,
+646,data governance mgr,1,data governance manager,data governance,,,manager,,,,,,,,,,,,,
+647,data governance metlife investments,1,data governance metlife investments,,,,,,,,,,,,,,,,,
+648,data governance director,1,data governance director,data governance,,,director,,,,,,,,,,,,,
+649,data governance council,1,data governance council,,,,,,,,,,,,,,,,,
+650,"data domain, group it architecture",1,data domain group it architecture,,,,,,,,,,,,,,,,,
+651,data architecture consultant,1,data architecture consultant,data architecture,,,consultant,,,,,,,,,,,,,
+652,cosultant,1,cosultant,,,,,,,,,,,,,,,,,
+653,corporate procurement,1,corporate procurement,,,,,,,,,,,,,,,,,
+654,corporate director master data,1,corporate director master data,master data,,,director,corporate master data,"(master data, 100, great)",100.0,great,master data,"(master data, 69, great)",69.0,,,"(master data, 90, great)",90.0,great,master data
+655,corporate data officer,1,corporate data officer,,,,,,,,,,,,,,,,,
+656,contracts manager,1,contracts manager,ignore,,,manager,contracts,"(soa architect, 45, common)",45.0,,,"(soa architect, 45, common)",45.0,,,"(analytics, 44, great)",44.0,,
+657,contract manager - sourcing  | verizon services ireland ltd,1,contract manager sourcing verizon services ireland ltd,,,,manager,contract verizon services ireland ltd,"(data services, 76, great)",76.0,,,"(data services, 48, great)",48.0,,,"(data services, 86, great)",86.0,,
+658,contract manager,1,contract manager,ignore,,,manager,contract,"(architect, 47, common)",47.0,,,"(architect, 47, common)",47.0,,,"(master data governance, 45, great)",45.0,,
+659,"computing director, enterprise architecture team- data management",1,computing director enterprise architecture team data management,data management,,,director,computing enterprise architecture team data management,"(data management, 100, great)",100.0,great,data management,"(enterprise data governance, 50, common)",50.0,,,"(data management, 90, great)",90.0,great,data management
+660,"computer system manager, database administrator",1,computer system manager database administrator,,,,manager,computer system database administrator,"(database administrator, 100, common)",100.0,common,database administrator,"(database administrator, 73, common)",73.0,,,"(master data, 66, great)",66.0,,
+661,computer specialist,1,computer specialist,ignore,,,specialist,computer,"(developer, 47, common)",47.0,,,"(developer, 47, common)",47.0,,,"(chief operating officer, 45, great)",45.0,,
+662,compliance policy manager,1,compliance policy manager,,,,manager,compliance policy,"(chief compliance officer, 74, common)",74.0,,,"(chief compliance officer, 68, common)",68.0,,,"(chief operating officer, 45, great)",45.0,,
+663,communications & outreach,1,communications outreach,,,,,,,,,,,,,,,,,
+664,commodities mgr,1,commodities manager,ignore,,,manager,commodities,"(data services, 42, great)",42.0,,,"(data services, 42, great)",42.0,,,"(data services, 42, great)",42.0,,
+665,commercial contracts analyst,1,commercial contracts analyst,,,,,,,,,,,,,,,,,
+666,collibra & data governance adminstrator,1,collibra data governance adminstrator,,,,,,,,,,,,,,,,,
+667,cio director enterprise it data office,1,chief information officer director enterprise it data office,,,,director,chief information officer enterprise it data,"(chief data officer, 100, great)",100.0,great,chief data officer,"(chief information officer, 72, common)",72.0,,,"(master data governance, 86, great)",86.0,,
+668,"chief, it accessibility, information collection & knowledge management (nppd)",1,chief it accessibility information collection knowledge management nppd,,,,,,,,,,,,,,,,,
+669,"chief, data standards & stewardship",1,chief data standards stewardship,,,,,,,,,,,,,,,,,
+670,chief services big data architect,1,chief services big data architect,,,,,,,,,,,,,,,,,
+671,chief innovation officer,1,chief innovation officer,,,,,,,,,,,,,,,,,
+672,chief information security officer,1,chief information security officer,,,,,,,,,,,,,,,,,
+673,chief information officer,1,chief information officer,chief information officer,common,100.0,,,,,,,,,,,,,,
+674,chief financial officer,1,chief financial officer,,,,,,,,,,,,,,,,,
+675,chief data strategist,1,chief data strategist,chief data officer,,,strategist,chief data,"(chief data officer, 100, great)",100.0,great,chief data officer,"(data architect, 75, great)",75.0,,,"(chief data officer, 90, great)",90.0,great,chief data officer
+676,chief data officer asset management,1,chief data officer asset management,,,,,,,,,,,,,,,,,
+677,chief data officer - investments,1,chief data officer investments,,,,,,,,,,,,,,,,,
+678,chief data officer - cib,1,chief data officer cib,,,,,,,,,,,,,,,,,
+679,chief data architect (acting),1,chief data architect acting,,,,,,,,,,,,,,,,,
+680,chief data analytics officer (cdao),1,chief data analytics officer cdao,,,,,,,,,,,,,,,,,
+681,chief content officer,1,chief content officer,,,,,,,,,,,,,,,,,
+682,chief architect oib belgium,1,chief architect oib belgium,,,,,,,,,,,,,,,,,
+683,cfo,1,chief financial officer,,,,,,,,,,,,,,,,,
+684,cdo(budget holder),1,chief data officer budget holder,,,,,,,,,,,,,,,,,
+685,cdo group,1,chief data officer group,,,,,,,,,,,,,,,,,
+686,cdi systems architect,1,cdi systems architect,,,,,,,,,,,,,,,,,
+687,category manager â€“ procurement unit,1,category manager procurement unit,,,,manager,category procurement unit,"(assessor quality management, 54, common)",54.0,,,"(assessor quality management, 54, common)",54.0,,,"(master data, 41, great)",41.0,,
+688,business/data analyst finance transformation,1,business data analyst finance transformation,,,,,,,,,,,,,,,,,
+689,business user,1,business user,,,,,,,,,,,,,,,,,
+690,business systems analyst lead,1,business systems analyst lead,,,,lead,business systems analyst,"(business analyst, 100, great)",100.0,great,business analyst,"(business analyst, 80, great)",80.0,,,"(business analyst, 86, great)",86.0,,
+691,business systems analyst - senior,1,business systems analyst senior,,,,senior,business systems analyst,"(business analyst, 100, great)",100.0,great,business analyst,"(business analyst, 80, great)",80.0,,,"(business analyst, 86, great)",86.0,,
+692,business systems analyst - financial reporting,1,business systems analyst financial reporting,,,,,,,,,,,,,,,,,
+693,business solutions consultant,1,business solutions consultant,business solutions,,,consultant,,,,,,,,,,,,,
+694,business solution and data integration,1,business solution and data integration,,,,,,,,,,,,,,,,,
+695,business intelligence solution lead,1,business intelligence solution lead,business intelligence,great,95.0,lead,,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 82, great)",82.0,,,"(business intelligence, 95, great)",95.0,great,business intelligence
+696,"business intelligence analyst, analytics",1,business intelligence analyst analytics,,,,,,,,,,,,,,,,,
+697,"business information architect, chase commercial bank",1,business information architect chase commercial bank,,,,,,,,,,,,,,,,,
+698,business information architect,1,business information architect,,,,,,,,,,,,,,,,,
+699,business implementation manager,1,business implementation manager,,,,manager,business implementation,"(business solutions, 68, common)",68.0,,,"(business solutions, 68, common)",68.0,,,"(business intelligence, 64, great)",64.0,,
+700,business data strategy & solutions,1,business data strategy solutions,,,,,,,,,,,,,,,,,
+701,"business architect, national information exchange model (niem)",1,business architect national information exchange model niem,,,,,,,,,,,,,,,,,
+702,"business analyst, sr",1,business analyst senior,business analyst,,,senior,,,,,,,,,,,,,
+703,business analyst specialist,1,business analyst specialist,business analyst,,,specialist,,,,,,,,,,,,,
+704,business analist,1,business analist,,,,,,,,,,,,,,,,,
+705,bpa collaboration lead,1,bpa collaboration lead,,,,lead,bpa collaboration,"(operations analyst, 51, common)",51.0,,,"(operations analyst, 51, common)",51.0,,,"(information architect, 45, great)",45.0,,
+706,big data architect - enterprise,1,big data architect enterprise,,,,,,,,,,,,,,,,,
+707,bi manager,1,business intelligence manager,business intelligence,,,manager,,,,,,,,,,,,,
+708,bi and analytics executive,1,business intelligence and analytics executive,business intelligence,great,95.0,executive,,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 81, great)",81.0,,,"(business intelligence, 95, great)",95.0,great,business intelligence
+709,beleidsadviseur,1,beleidsadviseur,,,,,,,,,,,,,,,,,
+710,"bank officer, data quality, enterprise data management & analytics, data governance analyst",1,bank officer data quality enterprise data management analytics data governance analyst,,,,,,,,,,,,,,,,,
+711,ba,1,business analyst,business analyst,great,100.0,,,,,,,,,,,,,,
+712,"avp, global it procurement",1,assistant vice president global it procurement,,,,assistant vice president global,it procurement,"(data management, 48, great)",48.0,,,"(data management, 48, great)",48.0,,,"(data management, 48, great)",48.0,,
+713,"avp, business intelligence, strategy & planning",1,assistant vice president business intelligence strategy planning,business intelligence,,,assistant vice president,business intelligence strategy planning,"(business intelligence, 100, great)",100.0,great,business intelligence,"(business intelligence, 70, great)",70.0,,,"(business intelligence, 90, great)",90.0,great,business intelligence
+714,avp data governance & business analysis,1,assistant vice president data governance business analysis,data governance,,,assistant vice president,data governance business analysis,"(data governance, 100, great)",100.0,great,data governance,"(data governance, 63, great)",63.0,,,"(data governance, 90, great)",90.0,great,data governance
+715,avp - data governance,1,assistant vice president data governance,data governance,,,assistant vice president,,,,,,,,,,,,,
+716,associate general counsel - attorney,1,associate general counsel attorney,,,,associate,general counsel attorney,"(business intelligence, 44, great)",44.0,,,"(business intelligence, 44, great)",44.0,,,"(master data governance, 43, great)",43.0,,
+717,"associate director, enterprise master data management",1,associate director enterprise master data management,master data,,,associate director,enterprise master data management,"(master data, 100, great)",100.0,great,master data,"(enterprise data governance, 71, common)",71.0,,,"(master data, 90, great)",90.0,great,master data
+718,associate - operations,1,associate operations,ignore,,,associate,operations,"(operations analyst, 100, common)",100.0,common,operations analyst,"(operations analyst, 71, common)",71.0,,,"(chief operating officer, 72, great)",72.0,,
+719,associate  director - eim solution architecture / delivery,1,associate director enterprise information management solution architecture delivery,information management,,,associate director,enterprise information management solution architecture delivery,"(information management, 100, great)",100.0,great,information management,"(enterprise information management, 68, common)",68.0,,,"(information management, 90, great)",90.0,great,information management
+720,"assoc. director, hr analytics and reporting",1,associate director hr analytics and reporting,analytics,,,associate director,hr analytics reporting,"(analytics, 100, great)",100.0,great,analytics,"(regulatory reporting, 62, common)",62.0,,,"(analytics, 90, great)",90.0,great,analytics
+721,"assoc. director, fss management group  (financial systems)",1,associate director fss management group financial systems,,,,associate director,fss management financial systems,"(financial systems, 100, common)",100.0,common,financial systems,"(financial systems, 69, common)",69.0,,,"(data management, 86, great)",86.0,,
+722,"assoc director, enterprise solutions delivery",1,associate director enterprise solutions delivery,,,,associate director,enterprise solutions delivery,"(enterprise solutions, 100, common)",100.0,common,enterprise solutions,"(enterprise solutions, 82, common)",82.0,,,"(chief operating officer, 42, great)",42.0,,
+723,assoc dir - it planning,1,associate director it planning,,,,associate director,it planning,"(data engineering, 52, common)",52.0,,,"(data engineering, 52, common)",52.0,,,"(chief operating officer, 50, great)",50.0,,
+724,assistant vp of it contract manager procurment,1,assistant vice president of it contract manager procurment,,,,assistant vice president manager,it contract procurment,"(information architect, 47, great)",47.0,,,"(information architect, 47, great)",47.0,,,"(information architect, 47, great)",47.0,,
+725,"assistant vice president, key programs - metlife i",1,assistant vice president key programs metlife,,,,assistant vice president,key programs metlife,"(chief executive officer, 42, common)",42.0,,,"(chief executive officer, 42, common)",42.0,,,"(chief operating officer, 42, great)",42.0,,
+726,assistant vice president manager of quantitative compliance,1,assistant vice president manager of quantitative compliance,,,,assistant vice president manager,quantitative compliance,"(chief compliance officer, 61, common)",61.0,,,"(chief compliance officer, 55, common)",55.0,,,"(analytics, 50, great)",50.0,,
+727,arquiteto de ti,1,arquiteto de ti,,,,,,,,,,,,,,,,,
+728,architecture manager,1,architecture manager,ignore,,,manager,architecture,"(data architecture, 100, great)",100.0,great,data architecture,"(architect, 86, common)",86.0,,,"(data architecture, 95, great)",95.0,great,data architecture
+729,application manager,1,application manager,ignore,,,manager,application,"(application development, 100, common)",100.0,common,application development,"(application development, 65, common)",65.0,,,"(information management, 50, great)",50.0,,
+730,application development manager,1,application development manager,application development,,,manager,,,,,,,,,,,,,
+731,alliance mgr,1,alliance manager,ignore,,,manager,alliance,"(analytics, 47, great)",47.0,,,"(analytics, 47, great)",47.0,,,"(business intelligence, 68, great)",68.0,,
+732,administrative director,1,administrative director,,,,administrative director,,,,,,,,,,,,,
+733,"administrative assistant to: kristi cunningham, pat branum and ashley sigrest.",1,administrative assistant to kristi cunningham pat branum and ashley sigrest,,,,administrative assistant,to kristi cunningham pat branum ashley sigrest,"(information architect, 36, great)",36.0,,,"(information architect, 36, great)",36.0,,,"(data services, 46, great)",46.0,,
+734,"actuarial manager, predictive analytics (dg lead)",1,actuarial manager predictive analytics data governance lead,data governance,,,manager lead,actuarial predictive analytics data governance,"(data governance, 100, great)",100.0,great,data governance,"(master data governance, 53, great)",53.0,,,"(data governance, 90, great)",90.0,great,data governance
