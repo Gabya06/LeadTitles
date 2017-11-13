@@ -17,9 +17,9 @@ def load_xl(root_dir, file_name, sheetname, encoding='utf-8'):
 def login_beatbox():
     # login to SF via beatbox
     # SF user/pass
-    sf_user = 'john.angerami@collibra.com'
-    sf_token = 'TFAB49jVswWVquu75y9nAklhl'
-    sf_pass = 'Fiske!418'
+    sf_user = ''
+    sf_token = ''
+    sf_pass = ''
     sf_pass_token = sf_pass + sf_token
 
     # instantiate object & login
@@ -31,9 +31,9 @@ def login_beatbox():
 
 def login_beatbox_sandbox():
     # SANDBOX
-    sf_user = 'gabrielle.agrocostea@collibra.com.salesopps'
-    sf_token = 'yXat3ijJqChkP7BSTfMLRTa2'  # 'iZGCwrBfRP1O8A8blXaKdA6h'
-    sf_pass = 'C0llibr@'
+    sf_user = ''
+    sf_token = ''
+    sf_pass = ''
     sf_pass_token = sf_pass + sf_token
 
     # instantiate object & login
