@@ -2,8 +2,8 @@ import beatbox
 from loadvar import *
 
 # PROD
-# sf_user = 'gabrielle.agrocostea@collibra.com'
-# sf_token = '6RB94QStbxUGLIsxG8yfJvZj'
+# sf_user = ''
+# sf_token = ''
 
 '''
 script to login to either Sandbox SF or Prod using beatbox and query lead table,
